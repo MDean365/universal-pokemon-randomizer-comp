@@ -26,6 +26,7 @@ package com.dabomstew.pkrandom.romhandlers;
 /*----------------------------------------------------------------------------*/
 
 import java.awt.image.BufferedImage;
+import java.io.IOException;
 import java.io.PrintStream;
 import java.util.List;
 import java.util.Map;
@@ -266,6 +267,10 @@ public interface RomHandler {
     boolean hasRivalFinalBattle();
 
     void forceFullyEvolvedTrainerPokes(Settings settings);
+
+    String getGenKey();
+
+    CompMoveset getStrongMoves(Pokemon pokemon) throws IOException;
 
     void onlyChangeTrainerLevels(Settings settings);
 

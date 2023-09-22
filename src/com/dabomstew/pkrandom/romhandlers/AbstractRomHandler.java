@@ -28,7 +28,7 @@ package com.dabomstew.pkrandom.romhandlers;
 /*--  along with this program. If not, see <http://www.gnu.org/licenses/>.  --*/
 /*----------------------------------------------------------------------------*/
 
-import java.io.PrintStream;
+import java.io.*;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -2075,6 +2075,61 @@ public abstract class AbstractRomHandler implements RomHandler {
             }
         }
         this.setTrainers(currentTrainers, false);
+    }
+
+    @Override
+    public String getGenKey() {
+        if (this instanceof Gen1RomHandler)
+            return "rb";
+        else if (this instanceof Gen2RomHandler)
+            return "gs";
+        else if (this instanceof Gen3RomHandler)
+            return "rs";
+        else if (this instanceof Gen4RomHandler)
+            return "dp";
+        else
+            return "bw";
+    }
+
+    @Override
+    public CompMoveset getStrongMoves(Pokemon pokemon) throws IOException {
+        BufferedReader reader;
+        String path = SysConstants.compSetsFolder + "movesets" + this.getGenKey() + ".txt";
+        try {
+            InputStream in = getClass().getResourceAsStream(path);
+            if (in == null) {
+                throw new IOException();
+            }
+            reader = new BufferedReader(new InputStreamReader(in));
+        } catch (IOException e) {
+            throw new RandomizationException("Error finding moveset data for: " + pokemon.name);
+        }
+        String target = pokemon.name;
+        CompMoveset moveset = new CompMoveset();
+        String cur;
+        while ((cur = reader.readLine()) != null) {
+            String[] line = cur.split(",");
+            if (line[0].equalsIgnoreCase(target)) { // found
+                for (int i = 1; i < line.length; i++) {
+                    moveset.newMoveset();
+                    for (String move : line[i].split(" ")) {
+                        move = move.replace("_", "");
+                        if (move.contains("HiddenPower")) {
+                            move = "hiddenPower";
+                        }
+                        if (move.contains("/")) {
+                            String[] possible_moves = move.split("/");
+                            moveset.appendMove(possible_moves[(int) (Math.random() * possible_moves.length)]);
+                        }
+                        else {
+                            moveset.appendMove(move.replace("_", " "));
+                        }
+                    }
+                }
+            }
+        }
+        reader.close();
+        return moveset;
     }
 
     @Override
