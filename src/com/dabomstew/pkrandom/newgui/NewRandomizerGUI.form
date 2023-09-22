@@ -1602,9 +1602,38 @@
                       <toolTipText resource-bundle="com/dabomstew/pkrandom/newgui/Bundle" key="GUI.tpRandomizeTrainerClassNamesCheckBox.toolTipText"/>
                     </properties>
                   </component>
+                  <component id="15e39" class="javax.swing.JCheckBox" binding="tpStrongMovesCheckBox">
+                    <constraints>
+                      <grid row="9" column="5" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                      <gridbag weightx="0.0" weighty="0.0"/>
+                    </constraints>
+                    <properties>
+                      <enabled value="false"/>
+                      <text resource-bundle="com/dabomstew/pkrandom/newgui/Bundle" key="GUI.tpStrongMovesCheckBox.text"/>
+                      <toolTipText resource-bundle="com/dabomstew/pkrandom/newgui/Bundle" key="GUI.tpStrongMovesCheckBox.toolTipText"/>
+                    </properties>
+                  </component>
+                  <component id="91643" class="javax.swing.JSlider" binding="tpStrongMovesSlider">
+                    <constraints>
+                      <grid row="10" column="5" row-span="2" col-span="1" vsize-policy="0" hsize-policy="6" anchor="9" fill="1" indent="0" use-parent-layout="false"/>
+                      <gridbag weightx="0.0" weighty="0.0"/>
+                    </constraints>
+                    <properties>
+                      <enabled value="false"/>
+                      <majorTickSpacing value="5"/>
+                      <maximum value="50"/>
+                      <minimum value="0"/>
+                      <minorTickSpacing value="1"/>
+                      <paintLabels value="true"/>
+                      <paintTicks value="true"/>
+                      <snapToTicks value="true"/>
+                      <toolTipText resource-bundle="com/dabomstew/pkrandom/newgui/Bundle" key="GUI.tpStrongMovesSlider.toolTipText"/>
+                      <value value="15"/>
+                    </properties>
+                  </component>
                   <component id="d6ea3" class="javax.swing.JCheckBox" binding="tpForceFullyEvolvedAtCheckBox">
                     <constraints>
-                      <grid row="4" column="6" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                      <grid row="5" column="6" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
                       <gridbag weightx="0.0" weighty="0.0"/>
                     </constraints>
                     <properties>
@@ -1615,7 +1644,7 @@
                   </component>
                   <component id="63823" class="javax.swing.JSlider" binding="tpForceFullyEvolvedAtSlider">
                     <constraints>
-                      <grid row="5" column="6" row-span="2" col-span="2" vsize-policy="0" hsize-policy="6" anchor="9" fill="1" indent="0" use-parent-layout="false"/>
+                      <grid row="6" column="6" row-span="2" col-span="2" vsize-policy="0" hsize-policy="6" anchor="9" fill="1" indent="0" use-parent-layout="false"/>
                       <gridbag weightx="0.0" weighty="0.0"/>
                     </constraints>
                     <properties>

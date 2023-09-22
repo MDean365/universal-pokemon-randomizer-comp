@@ -130,6 +130,7 @@ public class NewRandomizerGUI {
     private JSlider pmsGuaranteedLevel1MovesSlider;
     private JSlider pmsForceGoodDamagingSlider;
     private JCheckBox tpRivalCarriesStarterCheckBox;
+    private JCheckBox tpStrongMovesCheckBox;
     private JCheckBox tpSimilarStrengthCheckBox;
     private JCheckBox tpWeightTypesCheckBox;
     private JCheckBox tpDontUseLegendariesCheckBox;
@@ -159,6 +160,7 @@ public class NewRandomizerGUI {
     private JCheckBox wpPercentageLevelModifierCheckBox;
     private JSlider wpPercentageLevelModifierSlider;
     private JSlider wpSetMinimumCatchRateSlider;
+    private JSlider tpStrongMovesSlider;
     private JRadioButton tmUnchangedRadioButton;
     private JRadioButton tmRandomRadioButton;
     private JCheckBox tmFullHMCompatibilityCheckBox;
@@ -444,6 +446,7 @@ public class NewRandomizerGUI {
         tpForceFullyEvolvedAtCheckBox.addActionListener(e -> enableOrDisableSubControls());
         tpPercentageLevelModifierCheckBox.addActionListener(e -> enableOrDisableSubControls());
         tpEliteFourUniquePokemonCheckBox.addActionListener(e -> enableOrDisableSubControls());
+        tpStrongMovesCheckBox.addActionListener(e -> enableOrDisableSubControls());
         wpUnchangedRadioButton.addActionListener(e -> enableOrDisableSubControls());
         wpRandomRadioButton.addActionListener(e -> enableOrDisableSubControls());
         wpArea1To1RadioButton.addActionListener(e -> enableOrDisableSubControls());
@@ -1541,6 +1544,8 @@ public class NewRandomizerGUI {
         tpSimilarStrengthCheckBox.setSelected(settings.isTrainersUsePokemonOfSimilarStrength());
         tpComboBox.setSelectedItem(trainerSettings.get(settings.getTrainersMod().ordinal()));
         tpRivalCarriesStarterCheckBox.setSelected(settings.isRivalCarriesStarterThroughout());
+        tpStrongMovesCheckBox.setSelected(settings.isUseStrongTrainerMoves());
+        tpStrongMovesSlider.setValue(settings.getStrongTrainerMovesLevel());
         tpWeightTypesCheckBox.setSelected(settings.isTrainersMatchTypingDistribution());
         tpDontUseLegendariesCheckBox.setSelected(settings.isTrainersBlockLegendaries());
         tpNoEarlyWonderGuardCheckBox.setSelected(settings.isTrainersBlockEarlyWonderGuard());
@@ -1782,6 +1787,8 @@ public class NewRandomizerGUI {
                 isTrainerSetting(TRAINER_TYPE_THEMED), isTrainerSetting(TRAINER_TYPE_THEMED_ELITE4_GYMS));
         settings.setTrainersUsePokemonOfSimilarStrength(tpSimilarStrengthCheckBox.isSelected());
         settings.setRivalCarriesStarterThroughout(tpRivalCarriesStarterCheckBox.isSelected());
+        settings.setUseStrongTrainerMoves(tpStrongMovesCheckBox.isSelected());
+        settings.setStrongTrainerMovesLevel(tpStrongMovesSlider.getValue());
         settings.setTrainersMatchTypingDistribution(tpWeightTypesCheckBox.isSelected());
         settings.setTrainersBlockLegendaries(tpDontUseLegendariesCheckBox.isSelected());
         settings.setTrainersBlockEarlyWonderGuard(tpNoEarlyWonderGuardCheckBox.isSelected());
@@ -2294,6 +2301,12 @@ public class NewRandomizerGUI {
         tpRivalCarriesStarterCheckBox.setVisible(true);
         tpRivalCarriesStarterCheckBox.setEnabled(false);
         tpRivalCarriesStarterCheckBox.setSelected(false);
+        tpStrongMovesCheckBox.setVisible(true);
+        tpStrongMovesCheckBox.setEnabled(false);
+        tpStrongMovesCheckBox.setSelected(false);
+        tpStrongMovesSlider.setVisible(true);
+        tpStrongMovesSlider.setEnabled(false);
+        tpStrongMovesSlider.setValue(tpStrongMovesSlider.getMinimum());
         tpSimilarStrengthCheckBox.setVisible(true);
         tpSimilarStrengthCheckBox.setEnabled(false);
         tpSimilarStrengthCheckBox.setSelected(false);
@@ -3431,6 +3444,15 @@ public class NewRandomizerGUI {
             tpRivalCarriesStarterCheckBox.setEnabled(false);
             tpRivalCarriesStarterCheckBox.setSelected(false);
         }
+
+        if (!isTrainerSetting(TRAINER_UNCHANGED)) {
+            tpStrongMovesCheckBox.setEnabled(true);
+        } else {
+            tpStrongMovesCheckBox.setEnabled(false);
+            tpStrongMovesCheckBox.setSelected(false);
+        }
+
+        tpStrongMovesSlider.setEnabled(tpStrongMovesCheckBox.isSelected());
 
         if (isTrainerSetting(TRAINER_TYPE_THEMED)) {
             tpWeightTypesCheckBox.setEnabled(true);

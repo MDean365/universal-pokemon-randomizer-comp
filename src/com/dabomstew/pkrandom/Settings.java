@@ -163,6 +163,8 @@ public class Settings {
 
     private TrainersMod trainersMod = TrainersMod.UNCHANGED;
     private boolean rivalCarriesStarterThroughout;
+    private boolean useStrongTrainerMoves;
+    private int strongTrainerMovesLevel = 15;
     private boolean trainersUsePokemonOfSimilarStrength;
     private boolean trainersMatchTypingDistribution;
     private boolean trainersBlockLegendaries = true;
@@ -468,9 +470,9 @@ public class Settings {
                 fieldItemsMod == FieldItemsMod.UNCHANGED, banBadRandomFieldItems, fieldItemsMod == FieldItemsMod.RANDOM_EVEN));
 
         // 25 move randomizers
-        // + static music
+        // + strong moves, static music
         out.write(makeByteSelected(randomizeMovePowers, randomizeMoveAccuracies, randomizeMovePPs, randomizeMoveTypes,
-                randomizeMoveCategory, correctStaticMusic));
+                randomizeMoveCategory, useStrongTrainerMoves, correctStaticMusic));
 
         // 26 evolutions
         out.write(makeByteSelected(evolutionsMod == EvolutionsMod.UNCHANGED, evolutionsMod == EvolutionsMod.RANDOM,
@@ -1544,6 +1546,24 @@ public class Settings {
 
     public void setRivalCarriesStarterThroughout(boolean rivalCarriesStarterThroughout) {
         this.rivalCarriesStarterThroughout = rivalCarriesStarterThroughout;
+    }
+
+    public Settings setUseStrongTrainerMoves(boolean useStrongTrainerMoves) {
+        this.useStrongTrainerMoves = useStrongTrainerMoves;
+        return this;
+    }
+
+    public int getStrongTrainerMovesLevel() {
+        return strongTrainerMovesLevel;
+    }
+
+    public Settings setStrongTrainerMovesLevel(int strongTrainerMovesLevel) {
+        this.strongTrainerMovesLevel = strongTrainerMovesLevel;
+        return this;
+    }
+
+    public boolean isUseStrongTrainerMoves() {
+        return useStrongTrainerMoves;
     }
 
     public boolean isTrainersUsePokemonOfSimilarStrength() {

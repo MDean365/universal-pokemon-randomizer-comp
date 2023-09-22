@@ -41,4 +41,5 @@ util/files
 util/log
 out/
 .idea/
+classes/
 *.iml
