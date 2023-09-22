@@ -23,8 +23,13 @@ package com.dabomstew.pkrandom.constants;
 /*--  along with this program. If not, see <http://www.gnu.org/licenses/>.  --*/
 /*----------------------------------------------------------------------------*/
 
+import java.lang.reflect.Field;
+import java.util.HashMap;
+import java.util.Map;
+
 public class Moves {
     // https://bulbapedia.bulbagarden.net/wiki/List_of_moves
+    private static final Map<String, Integer> nameToNum = new HashMap<>();
     public static final int pound = 1;
     public static final int karateChop = 2;
     public static final int doubleSlap = 3;
@@ -851,4 +856,27 @@ public class Moves {
     public static final int glacialLance = 824;
     public static final int astralBarrage = 825;
     public static final int eerieSpell = 826;
+
+    static {
+        // Create a static map for converting move names to the corresponding integers
+        // I know this is hacky af but I'm not going to rewrite any lists lol
+        for (Field field : Moves.class.getDeclaredFields()) {
+            // Ignore the map itself
+            if (!(field.getType() == Map.class)) {
+                try {
+                    // return keyword lol
+                    if (field.getName().equals("returnTheMoveNotTheKeyword"))
+                        nameToNum.put("return", field.getInt(Moves.class));
+                    else
+                        nameToNum.put(field.getName().toLowerCase(), field.getInt(Moves.class));
+                } catch (IllegalAccessException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
+    }
+
+    public static int getMoveNumByName(String name) {
+        return nameToNum.get(name.toLowerCase());
+    }
 }

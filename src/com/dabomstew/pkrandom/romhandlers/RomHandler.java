@@ -270,6 +270,8 @@ public interface RomHandler {
 
     String getGenKey();
 
+    void setStrongTrainerMoves(int minLevel);
+
     CompMoveset getStrongMoves(Pokemon pokemon) throws IOException;
 
     void onlyChangeTrainerLevels(Settings settings);

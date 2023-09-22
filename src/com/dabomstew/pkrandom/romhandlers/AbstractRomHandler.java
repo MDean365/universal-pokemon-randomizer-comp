@@ -2092,6 +2092,38 @@ public abstract class AbstractRomHandler implements RomHandler {
     }
 
     @Override
+    public void setStrongTrainerMoves(int minLevel) {
+        List<Trainer> trainers = getTrainers();
+        for (Trainer tr : trainers) {
+            tr.poketype |= 1;
+            for (TrainerPokemon tp : tr.pokemon) {
+                if (tp.level < minLevel) {
+                    tp.resetMoves = true;
+                    continue;
+                }
+                CompMoveset movesets;
+                try {
+                    movesets = getStrongMoves(tp.pokemon);
+                } catch (IOException E) {
+                    System.out.println("Getting moves failed on pokemon: " + tp.pokemon.name);
+                    continue;
+                }
+                if (movesets == null || movesets.isEmpty()) {
+                    // Likely mid-stage evo with no comp set
+                    tp.resetMoves = true;
+                    continue;
+                }
+                // Pick random set if more than 1 exists
+                List<String> selectedSet = movesets.getMoves().get((int) (Math.random() * movesets.getMoves().size()));
+                for (int i = 0; i < selectedSet.size(); i++) {
+                    tp.moves[i] = Moves.getMoveNumByName(selectedSet.get(i));
+                }
+            }
+        }
+        this.setTrainers(trainers, false);
+    }
+
+    @Override
     public CompMoveset getStrongMoves(Pokemon pokemon) throws IOException {
         BufferedReader reader;
         String path = SysConstants.compSetsFolder + "movesets" + this.getGenKey() + ".txt";
