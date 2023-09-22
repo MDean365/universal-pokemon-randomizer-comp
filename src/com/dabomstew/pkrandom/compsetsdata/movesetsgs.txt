@@ -1,0 +1,251 @@
+Bulbasaur,
+Ivysaur,
+Venusaur,Synthesis Leech_Seed Razor_Leaf Sleep_Powder/Reflect,Swords_Dance Body_Slam Giga_Drain Sleep_Powder 
+Charmander,
+Charmeleon,
+Charizard,Belly_Drum Earthquake Rock_Slide Fire_Blast 
+Squirtle,
+Wartortle,
+Blastoise,Rapid_Spin Surf Rest Sleep_Talk/Roar 
+Caterpie,
+Metapod,
+Butterfree,Sleep_Powder Stun_Spore Psychic/Nightmare Giga_Drain 
+Weedle,
+Kakuna,
+Beedrill,Sludge_Bomb hiddenpower Swords_Dance Agility/Return/Twineedle 
+Pidgey,
+Pidgeotto,
+Pidgeot,Return hiddenpower Toxic hiddenpower 
+Rattata,
+Raticate,Super_Fang Substitute Mimic Body_Slam 
+Spearow,
+Fearow,DoubleEdge hiddenpower Rest Sleep_Talk,DoubleEdge/Return hiddenpower Drill_Peck Substitute/Curse 
+Ekans,
+Arbok,Sludge_Bomb Glare Earthquake Giga_Drain/Substitute/Screech 
+Pikachu,Substitute Thunderbolt/Thunder Surf hiddenpower 
+Raichu,Thunder Surf Rain_Dance Substitute/Thunder_Wave,Thunderbolt Surf Thunder_Wave Seismic_Toss,Charm Encore hiddenpower Thunderbolt 
+Sandshrew,
+Sandslash,Earthquake Rock_Slide Swords_Dance hiddenpower 
+Nidoran♀,
+Nidorina,
+Nidoqueen,Earthquake Thunder Ice_Beam/Fire_Blast Lovely_Kiss/Moonlight 
+Nidoran♂,
+Nidorino,
+Nidoking,Earthquake Lovely_Kiss Ice_Beam Thunder/Thunderbolt 
+Clefairy,
+Clefable,Belly_Drum Moonlight Return Fire_Blast/Charm/Encore/Shadow_Ball,Return/DoubleEdge Fire_Blast/Thunderbolt Ice_Beam Moonlight 
+Vulpix,
+Ninetales,Flamethrower hiddenpower Rest Sleep_Talk 
+Jigglypuff,
+Wigglytuff,Body_Slam/DoubleEdge Thunder Rest Sleep_Talk,Curse DoubleEdge/Body_Slam Sleep_Talk/Thunder_Wave Rest 
+Zubat,
+Golbat,
+Oddish,
+Gloom,hiddenpower hiddenpower Sludge_Bomb hiddenpower 
+Vileplume,Stun_Spore Sludge_Bomb Giga_Drain Synthesis 
+Paras,
+Parasect,Spore hiddenpower Giga_Drain Stun_Spore,Spore Growth Giga_Drain hiddenpower,Spore hiddenpower Return/Sludge_Bomb Swords_Dance 
+Venonat,
+Venomoth,Curse Sludge_Bomb Stun_Spore/Sleep_Powder hiddenpower 
+Diglett,
+Dugtrio,Earthquake Rock_Slide Sludge_Bomb/Screech/Thief Substitute 
+Meowth,
+Persian,Return/Body_Slam Hypnosis Screech Zap_Cannon/Thunderbolt,Return/Body_Slam Shadow_Ball/Substitute Swagger Psych_Up 
+Psyduck,
+Golduck,Cross_Chop Hypnosis Surf/Hydro_Pump hiddenpower 
+Mankey,
+Primeape,Meditate Cross_Chop Rock_Slide hiddenpower 
+Growlithe,
+Arcanine,Fire_Blast/Flamethrower hiddenpower Rest Sleep_Talk 
+Poliwag,
+Poliwhirl,Belly_Drum Return Earthquake Lovely_Kiss 
+Poliwrath,Belly_Drum Lovely_Kiss Hydro_Pump Body_Slam 
+Abra,
+Kadabra,Psychic Thunder_Punch Recover Encore/Thunder_Wave 
+Alakazam,Psychic Dynamic_Punch Recover/Substitute Fire_Punch/Thunder_Punch/Zap_Cannon/Ice_Punch,Psychic Fire_Punch/Toxic Encore/Toxic Recover 
+Machop,
+Machoke,
+Machamp,Cross_Chop Curse Rock_Slide hiddenpower,Cross_Chop Rock_Slide Earthquake/Body_Slam hiddenpower,Cross_Chop Curse Rest Sleep_Talk 
+Bellsprout,
+Weepinbell,
+Victreebel,Swords_Dance Sludge_Bomb hiddenpower Sleep_Powder/Giga_Drain 
+Tentacool,
+Tentacruel,Swords_Dance Substitute Sludge_Bomb Hydro_Pump/Surf,Rapid_Spin Sludge_Bomb/Toxic Surf Screech/Curse/Protect 
+Geodude,
+Graveler,Earthquake hiddenpower Rapid_Spin Explosion 
+Golem,Earthquake Rapid_Spin Explosion Roar/Fire_Blast,Earthquake Rock_Slide Explosion Curse 
+Ponyta,
+Rapidash,Fire_Blast/Flamethrower DoubleEdge/Body_Slam hiddenpower hiddenpower,Fire_Blast/Flamethrower hiddenpower Rest Sleep_Talk 
+Slowpoke,
+Slowbro,Psychic/Thunder_Wave Surf Rest Sleep_Talk 
+Magnemite,
+Magneton,Thunder hiddenpower Rest Sleep_Talk 
+Farfetch'd,Agility Swords_Dance Return Baton_Pass 
+Doduo,
+Dodrio,DoubleEdge Drill_Peck Rest Sleep_Talk 
+Seel,
+Dewgong,Surf Ice_Beam Rest Sleep_Talk,Toxic Encore Ice_Beam Protect/Surf/Rest 
+Grimer,
+Muk,Sludge_Bomb Fire_Blast Explosion Curse 
+Shellder,
+Cloyster,Spikes Surf hiddenpower Explosion/Rapid_Spin 
+Gastly,
+Haunter,Hypnosis/Thief Psychic Thunder Explosion 
+Gengar,Thunderbolt/Thunder Ice_Punch Hypnosis/Dynamic_Punch Explosion/Destiny_Bond,Perish_Song Mean_Look Protect Thunderbolt/Thunder 
+Onix,
+Drowzee,
+Hypno,Thunder_Wave/Hypnosis Psychic/Seismic_Toss Light_Screen/Reflect Rest,Psychic Seismic_Toss/Thunder_Wave Rest Sleep_Talk,Curse Body_Slam Rest Sleep_Talk 
+Krabby,
+Kingler,Frustration/DoubleEdge Swords_Dance Rest Sleep_Talk,Swords_Dance Substitute Frustration/DoubleEdge/Body_Slam hiddenpower 
+Voltorb,
+Electrode,Explosion Light_Screen hiddenpower Thunderbolt/Thunder/Thunder_Wave 
+Exeggcute,
+Exeggutor,Sleep_Powder/Stun_Spore Psychic hiddenpower Explosion,Stun_Spore Leech_Seed Psychic Substitute/Explosion 
+Cubone,
+Marowak,Earthquake Rock_Slide hiddenpower Swords_Dance 
+Hitmonlee,High_Jump_Kick hiddenpower Rest Sleep_Talk,Meditate/Curse High_Jump_Kick hiddenpower DoubleEdge/Body_Slam/Rapid_Spin/Mach_Punch 
+Hitmonchan,High_Jump_Kick Return Counter/Curse hiddenpower 
+Lickitung,Body_Slam Swords_Dance Sleep_Talk Rest,Thunderbolt Ice_Beam Sleep_Talk Rest 
+Koffing,
+Weezing,Sludge_Bomb Thunder Explosion hiddenpower 
+Rhyhorn,
+Rhydon,Earthquake Rock_Slide Curse Roar 
+Chansey,Present Thunder/Ice_Beam Heal_Bell SoftBoiled 
+Tangela,Stun_Spore Sleep_Powder Giga_Drain Reflect/Synthesis 
+Kangaskhan,Curse Rest Return Roar,Body_Slam Earthquake Attract Substitute 
+Horsea,
+Seadra,
+Goldeen,
+Seaking,Swords_Dance Agility/Surf DoubleEdge hiddenpower,Surf Ice_Beam Rest Sleep_Talk 
+Staryu,
+Starmie,Surf Psychic/Thunder_Wave Rapid_Spin Recover 
+Mr. Mime,Psychic Thunder Thunder_Wave/Hypnosis Encore/Light_Screen/Reflect/Thief/Substitute,Thunder_Wave/Encore/Barrier/Hypnosis Psychic/Thunder Substitute/Barrier Baton_Pass,Psychic Thunder Rest Sleep_Talk 
+Scyther,Swords_Dance Wing_Attack/Return hiddenpower Baton_Pass,Swords_Dance Wing_Attack hiddenpower DoubleEdge/Light_Screen 
+Jynx,Lovely_Kiss Ice_Beam Psychic Substitute/Thief/Nightmare 
+Electabuzz,Thunder/Thunderbolt Psychic Ice_Punch hiddenpower 
+Magmar,Fire_Blast Thunder_Punch/Thief hiddenpower hiddenpower 
+Pinsir,Swords_Dance hiddenpower DoubleEdge/Body_Slam/Return Submission,Rest Sleep_Talk Swords_Dance Body_Slam 
+Tauros,DoubleEdge Earthquake Rest Sleep_Talk 
+Magikarp,
+Gyarados,Hydro_Pump Thunder DoubleEdge/Roar hiddenpower,Hydro_Pump hiddenpower Roar/Thunder/Sleep_Talk Rest 
+Lapras,Ice_Beam Thunderbolt Rest Sleep_Talk,Confuse_Ray Ice_Beam Thunder Surf/Sing/Reflect 
+Ditto,Transform 
+Eevee,
+Vaporeon,Surf/Hydro_Pump Growth Rest Sleep_Talk/Acid_Armor 
+Jolteon,Baton_Pass Agility/Growth hiddenpower Thunder/Thunderbolt 
+Flareon,Fire_Blast Shadow_Ball Return hiddenpower 
+Porygon,DoubleEdge Thunder_Wave Recover Curse/Ice_Beam 
+Omanyte,
+Omastar,Surf hiddenpower Rest hiddenpower 
+Kabuto,
+Kabutops,Swords_Dance Ancient_Power hiddenpower Hydro_Pump/DoubleEdge 
+Aerodactyl,Earthquake hiddenpower hiddenpower Fire_Blast,Curse Earthquake hiddenpower Substitute,Reflect Rest Whirlwind hiddenpower 
+Snorlax,Curse DoubleEdge/Body_Slam/Return Earthquake/Fire_Blast/Flamethrower/Lovely_Kiss/Thunder Rest,Rest Sleep_Talk DoubleEdge Curse/Thunder/Flamethrower/Surf/Earthquake,Belly_Drum Body_Slam/Return Earthquake/Lovely_Kiss Rest,DoubleEdge/Body_Slam Earthquake/Lovely_Kiss Thunder/Fire_Blast/Curse SelfDestruct,DoubleEdge Flamethrower Toxic Rest 
+Articuno,Rest Sleep_Talk/Roar Ice_Beam Toxic/Reflect 
+Zapdos,Thunder/Thunderbolt hiddenpower Rest Sleep_Talk,Thunderbolt/Thunder hiddenpower Whirlwind Thunder_Wave 
+Moltres,Rest Sleep_Talk Fire_Blast Sunny_Day 
+Dratini,
+Dragonair,Thunder_Wave/Thunderbolt/Thunder Surf Fire_Blast Thunder/Light_Screen/Reflect 
+Dragonite,Thunder_Wave/DoubleEdge Ice_Beam Thunder Dynamic_Punch,Haze Reflect Rest Sleep_Talk/Body_Slam/Dragon_Breath 
+Mewtwo,Flamethrower/Thunder/Psychic Toxic/Ice_Beam Barrier/SelfDestruct/Psychic/Dynamic_Punch Recover,Thunder Ice_Beam/Psychic Dynamic_Punch/Fire_Blast/Submission SelfDestruct 
+Mew,Swords_Dance Submission SoftBoiled Shadow_Ball/Rock_Slide 
+Chikorita,
+Bayleef,
+Meganium,Razor_Leaf Reflect/Light_Screen Leech_Seed Synthesis,Body_Slam Swords_Dance Synthesis Earthquake 
+Cyndaquil,
+Quilava,
+Typhlosion,Fire_Blast Dynamic_Punch hiddenpower Earthquake/Sunny_Day 
+Totodile,
+Croconaw,
+Feraligatr,Hydro_Pump Earthquake Rock_Slide/Ancient_Power Curse/Dynamic_Punch,Hydro_Pump Ice_Beam Crunch hiddenpower 
+Sentret,
+Furret,DoubleEdge Rest Curse Shadow_Ball 
+Hoothoot,
+Noctowl,Hypnosis Reflect Night_Shade Rest,Hypnosis Curse Return hiddenpower 
+Ledyba,
+Ledian,Baton_Pass Agility Light_Screen Reflect 
+Spinarak,
+Ariados,Spider_Web Agility Baton_Pass Sludge_Bomb 
+Crobat,Haze Wing_Attack Thief/Toxic hiddenpower 
+Chinchou,Surf/Hydro_Pump Thunder Rest Sleep_Talk,Surf Thunder/Thunderbolt Light_Screen/Ice_Beam Thunder_Wave/Ice_Beam 
+Lanturn,Thunder Surf Rest Sleep_Talk 
+Pichu,
+Cleffa,
+Igglybuff,
+Togepi,
+Togetic,Charm/Encore Fire_Blast Safeguard Psychic,Sunny_Day Solar_Beam Fire_Blast Encore/Safeguard,Curse hiddenpower Return Rest 
+Natu,
+Xatu,Psychic hiddenpower Rest Sleep_Talk,Psychic Haze hiddenpower Thief 
+Mareep,
+Flaaffy,
+Ampharos,Thunder/Thunderbolt hiddenpower Rest Sleep_Talk 
+Bellossom,Stun_Spore/Sleep_Powder hiddenpower hiddenpower Moonlight,Stun_Spore Swords_Dance Return/DoubleEdge hiddenpower 
+Marill,
+Azumarill,Surf Light_Screen/Ice_Beam Rest Sleep_Talk 
+Sudowoodo,Curse Rock_Slide Earthquake SelfDestruct,Rock_Slide Earthquake/Curse Sleep_Talk/Curse Rest 
+Politoed,Growth Surf Rest hiddenpower 
+Hoppip,
+Skiploom,
+Jumpluff,Stun_Spore Encore Synthesis/Leech_Seed hiddenpower 
+Aipom,Agility Baton_Pass Return Counter 
+Sunkern,
+Sunflora,Growth Razor_Leaf/Giga_Drain hiddenpower Synthesis,Curse Sludge_Bomb Return hiddenpower,Growth Sunny_Day Solar_Beam hiddenpower 
+Yanma,Curse/Screech hiddenpower Wing_Attack Giga_Drain 
+Wooper,
+Quagsire,Belly_Drum Earthquake hiddenpower Sludge_Bomb/Amnesia/Protect 
+Espeon,Growth Psychic hiddenpower Morning_Sun,Growth Psychic Baton_Pass hiddenpower 
+Umbreon,Charm Pursuit Sleep_Talk/Toxic Rest/Moonlight,Mean_Look Baton_Pass Charm/Confuse_Ray Rest/Moonlight/Sand_Attack 
+Murkrow,Drill_Peck Feint_Attack Pursuit Night_Shade/Toxic 
+Slowking,Surf/Psychic Thunder_Wave/Psychic Rest Sleep_Talk 
+Misdreavus,Thunder Toxic Thief/Protect/Hypnosis/Confuse_Ray Pain_Split/Rest,Mean_Look Perish_Song Protect Confuse_Ray/Thunder 
+Unown,hiddenpower 
+Wobbuffet,Counter Mirror_Coat Destiny_Bond Safeguard 
+Girafarig,Baton_Pass Agility Amnesia/Psychic Psychic/Thunder 
+Pineco,Spikes Explosion Rapid_Spin/Reflect/Toxic hiddenpower 
+Forretress,Spikes Rapid_Spin Toxic/Explosion hiddenpower 
+Dunsparce,Glare Curse Return/Headbutt Rest,Return Thunder Pursuit hiddenpower 
+Gligar,Earthquake hiddenpower Thief Screech/Counter 
+Steelix,Earthquake Curse Roar Explosion/Rock_Slide/Body_Slam 
+Snubbull,
+Granbull,Curse Frustration Rest Sleep_Talk,Frustration Heal_Bell Rest Sleep_Talk,Curse/Thunder Frustration hiddenpower Lovely_Kiss/Protect/Thunder,Frustration hiddenpower Rest Sleep_Talk 
+Qwilfish,Spikes Sludge_Bomb Hydro_Pump Haze/Curse 
+Scizor,Swords_Dance Baton_Pass Agility hiddenpower 
+Shuckle,Defense_Curl Toxic Rollout Rest,Toxic Encore Rest Sleep_Talk 
+Heracross,Rest Sleep_Talk Megahorn Curse/Seismic_Toss 
+Sneasel,Return Moonlight Toxic Dynamic_Punch/Thief,Return Nightmare Moonlight Toxic 
+Teddiursa,
+Ursaring,Curse Return Earthquake/Rest Roar 
+Slugma,
+Magcargo,Curse Rock_Slide Earthquake Fire_Blast/Rest 
+Swinub,
+Piloswine,Sleep_Talk Rest Ice_Beam Earthquake,Sleep_Talk Rest Ice_Beam Earthquake 
+Corsola,Mirror_Coat/Surf Curse Ancient_Power Recover,Surf Recover Toxic Mirror_Coat 
+Remoraid,
+Octillery,Surf hiddenpower Rest Sleep_Talk 
+Delibird,Spikes Ice_Beam Toxic hiddenpower,Curse hiddenpower Ice_Beam/Sleep_Talk Rest 
+Mantine,Hydro_Pump Confuse_Ray Toxic Haze 
+Skarmory,Whirlwind Drill_Peck Rest Curse 
+Houndour,Fire_Blast Crunch Pursuit Counter/Thief 
+Houndoom,Fire_Blast Crunch Pursuit Roar/Counter,Sunny_Day Fire_Blast Solar_Beam Pursuit 
+Kingdra,Surf Dragon_Breath/Ice_Beam Rest Sleep_Talk 
+Phanpy,
+Donphan,Earthquake hiddenpower Curse Rest/Roar,Earthquake Roar Rapid_Spin Rest 
+Porygon2,Thunder_Wave/Thunder DoubleEdge Ice_Beam Recover,Curse DoubleEdge/Return Recover Ice_Beam 
+Stantler,Return Earthquake Hypnosis/Light_Screen Thief/Reflect/Curse,Return Earthquake Rest Sleep_Talk 
+Smeargle,Spore Agility Baton_Pass Substitute/Spikes/Encore/Destiny_Bond,Spikes Spore Present/Mirror_Coat/Encore Sacred_Fire/Destiny_Bond/Encore 
+Tyrogue,
+Hitmontop,High_Jump_Kick Curse/Rest Counter/Return hiddenpower 
+Smoochum,
+Elekid,
+Magby,
+Miltank,Heal_Bell Milk_Drink Growl Body_Slam 
+Blissey,Heal_Bell Flamethrower/Ice_Beam/Toxic Toxic/Light_Screen/Present/Sing SoftBoiled,Thunder_Wave/Sing/Thunder Ice_Beam/Flamethrower Counter/Thunder SoftBoiled/Counter 
+Raikou,Thunder/Thunderbolt Roar hiddenpower Rest,Thunder/Thunderbolt hiddenpower Rest Sleep_Talk 
+Entei,Sunny_Day Fire_Blast Solar_Beam hiddenpower 
+Suicune,Surf Toxic/Ice_Beam Rest Sleep_Talk/Roar 
+Larvitar,
+Pupitar,Ancient_Power/Rock_Slide Earthquake Screech/Rest Rock_Slide/Sleep_Talk 
+Tyranitar,Rock_Slide Pursuit Roar Fire_Blast/Crunch/Earthquake,Rock_Slide Curse Roar Rest 
+Lugia,Curse Aeroblast Earthquake Recover/Rest 
+Ho-oh,Recover Thunderbolt Sacred_Fire Earthquake/Shadow_Ball,Curse Recover Return Whirlwind/Sacred_Fire/Shadow_Ball 
+Celebi,Heal_Bell Recover Leech_Seed Psychic

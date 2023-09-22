@@ -1,0 +1,151 @@
+Bulbasaur,Sleep_Powder Swords_Dance Razor_Leaf Body_Slam 
+Ivysaur,Sleep_Powder Razor_Leaf Body_Slam Leech_Seed/Swords_Dance 
+Venusaur,Razor_Leaf Body_Slam Sleep_Powder Toxic 
+Charmander,Fire_Blast/Flamethrower Fire_Spin Slash Seismic_Toss/Counter 
+Charmeleon,Fire_Blast Slash Seismic_Toss Counter/Fire_Spin 
+Charizard,Fire_Spin Fire_Blast Earthquake Slash/Swords_Dance/Toxic,Swords_Dance Earthquake Hyper_Beam Fire_Spin/Mega_Kick/Fire_Blast 
+Squirtle,Surf Blizzard Body_Slam Counter/Rest 
+Wartortle,Surf Blizzard Body_Slam Counter/Rest 
+Blastoise,Surf/Hydro_Pump Ice_Beam/Blizzard Body_Slam/Toxic Rest 
+Caterpie,String_Shot Tackle 
+Metapod,String_Shot Tackle 
+Butterfree,Sleep_Powder Stun_Spore Psychic Psywave 
+Weedle,String_Shot Poison_Sting 
+Kakuna,String_Shot Poison_Sting 
+Beedrill,Agility Swords_Dance Twineedle Hyper_Beam 
+Pidgey,DoubleEdge Quick_Attack Wing_Attack Mirror_Move 
+Pidgeotto,DoubleEdge Quick_Attack Wing_Attack Mirror_Move 
+Pidgeot,DoubleEdge Hyper_Beam Mirror_Move Agility 
+Rattata,Super_Fang Body_Slam Blizzard Thunderbolt 
+Raticate,Super_Fang Hyper_Beam Body_Slam Thunderbolt/Thunder/Blizzard 
+Spearow,DoubleEdge Drill_Peck Mirror_Move Agility 
+Fearow,DoubleEdge Hyper_Beam Drill_Peck Agility/Mirror_Move 
+Ekans,Glare Wrap Rock_Slide Earthquake 
+Arbok,Glare Wrap Earthquake Hyper_Beam 
+Pikachu,Thunderbolt Thunder_Wave Surf Seismic_Toss/Body_Slam 
+Raichu,Thunderbolt Surf Thunder_Wave Submission 
+Sandshrew,Swords_Dance Slash/Body_Slam Rock_Slide Earthquake 
+Sandslash,Swords_Dance Earthquake Rock_Slide Body_Slam 
+Nidoran♀,
+Nidorina,Body_Slam Blizzard Thunderbolt Bubble_Beam 
+Nidoqueen,Earthquake Thunderbolt Blizzard Fire_Blast 
+Nidoran♂,
+Nidorino,Body_Slam Blizzard Thunderbolt Bubble_Beam 
+Nidoking,Earthquake Thunderbolt Blizzard Rock_Slide/Substitute 
+Clefairy,Body_Slam Thunderbolt Blizzard Thunder_Wave 
+Clefable,Body_Slam Blizzard Thunderbolt/Hyper_Beam Thunder_Wave/Sing 
+Vulpix,Confuse_Ray Fire_Blast/Flamethrower Body_Slam Quick_Attack 
+Ninetales,Fire_Spin Fire_Blast Toxic/Body_Slam Rest/Confuse_Ray/Hyper_Beam 
+Jigglypuff,Body_Slam Blizzard Thunderbolt Counter/Thunder_Wave 
+Wigglytuff,Thunder_Wave Body_Slam/Hyper_Beam/Blizzard Thunderbolt/Blizzard Counter 
+Zubat,Confuse_Ray/Haze Wing_Attack Mega_Drain DoubleEdge 
+Golbat,Screech DoubleEdge Confuse_Ray Mega_Drain 
+Oddish,Sleep_Powder Stun_Spore/Acid Mega_Drain DoubleEdge 
+Gloom,Sleep_Powder Stun_Spore Mega_Drain DoubleEdge 
+Vileplume,Sleep_Powder Stun_Spore/Swords_Dance Mega_Drain Body_Slam/Hyper_Beam 
+Paras,Spore Stun_Spore Slash Mega_Drain/Leech_Life 
+Parasect,Spore Stun_Spore Swords_Dance/Body_Slam Hyper_Beam/Body_Slam 
+Venonat,Sleep_Powder Psychic Mega_Drain DoubleEdge 
+Venomoth,Sleep_Powder Stun_Spore Psychic Mega_Drain/DoubleEdge 
+Diglett,Earthquake Rock_Slide Slash Substitute 
+Dugtrio,Earthquake Rock_Slide Slash/Substitute Toxic 
+Meowth,Slash Body_Slam Thunderbolt Bubble_Beam 
+Persian,Slash Hyper_Beam Thunderbolt Toxic 
+Psyduck,Amnesia Surf Blizzard Rest/Seismic_Toss/Body_Slam 
+Golduck,Amnesia Hydro_Pump Blizzard Rest 
+Mankey,Low_Kick Thunderbolt Rock_Slide Karate_Chop/Body_Slam/Submission 
+Primeape,Submission Body_Slam Rock_Slide Hyper_Beam/Thunderbolt 
+Growlithe,Fire_Blast/Flamethrower Body_Slam Agility Toxic 
+Arcanine,Agility Body_Slam Hyper_Beam Fire_Blast 
+Poliwag,Hypnosis Amnesia Hydro_Pump Blizzard/Psychic/Body_Slam 
+Poliwhirl,Hypnosis Amnesia Psychic Blizzard/Surf/Hydro_Pump 
+Poliwrath,Amnesia Hydro_Pump Blizzard/Hypnosis Hypnosis/Submission/Surf 
+Abra,Psychic Thunder_Wave Seismic_Toss Reflect 
+Kadabra,Psychic Thunder_Wave Seismic_Toss Recover 
+Alakazam,Psychic Seismic_Toss/Reflect Thunder_Wave Recover 
+Machop,Low_Kick/Submission Rock_Slide Earthquake Body_Slam/Seismic_Toss 
+Machoke,Low_Kick/Submission Body_Slam Earthquake Counter/Fire_Blast 
+Machamp,Low_Kick/Submission Body_Slam Hyper_Beam Earthquake 
+Bellsprout,Sleep_Powder/Stun_Spore Swords_Dance DoubleEdge/Mega_Drain Wrap 
+Weepinbell,Sleep_Powder/Stun_Spore Razor_Leaf DoubleEdge/Swords_Dance Wrap 
+Victreebel,Sleep_Powder Stun_Spore Razor_Leaf Wrap,Sleep_Powder/Stun_Spore Swords_Dance Hyper_Beam Wrap/Razor_Leaf 
+Tentacool,Swords_Dance Surf/Blizzard DoubleEdge Wrap,Surf Blizzard Wrap Rest 
+Tentacruel,Wrap Surf Blizzard Rest,Swords_Dance Surf Wrap Hyper_Beam 
+Geodude,Rock_Slide Earthquake Body_Slam/Seismic_Toss/Substitute Explosion 
+Graveler,Rock_Slide Earthquake Substitute/Body_Slam Explosion 
+Golem,Explosion Earthquake Rock_Slide Substitute/Body_Slam 
+Ponyta,Fire_Blast Fire_Spin Body_Slam Agility 
+Rapidash,Fire_Spin Fire_Blast Toxic Hyper_Beam 
+Slowpoke,Amnesia Surf Thunder_Wave Rest 
+Slowbro,Amnesia Surf/Psychic Thunder_Wave/Reflect Rest 
+Magnemite,Thunderbolt Thunder_Wave DoubleEdge Toxic 
+Magneton,Thunderbolt Thunder_Wave DoubleEdge Rest/Toxic 
+Farfetch'd,Body_Slam Slash Swords_Dance/Toxic Agility/Toxic 
+Doduo,Body_Slam DoubleEdge Drill_Peck Agility 
+Dodrio,Body_Slam Drill_Peck Hyper_Beam Agility 
+Seel,Surf Blizzard/Ice_Beam Body_Slam Rest 
+Dewgong,Blizzard Surf/Ice_Beam Body_Slam Rest 
+Grimer,Sludge Thunderbolt Mega_Drain Explosion 
+Muk,Sludge/Body_Slam Thunderbolt Mega_Drain Explosion 
+Shellder,Surf Blizzard Clamp Explosion/Rest 
+Cloyster,Clamp Blizzard Rest/Hyper_Beam Explosion 
+Gastly,Hypnosis Thunderbolt Mega_Drain/Psychic Night_Shade/Psychic 
+Haunter,Hypnosis Night_Shade Thunderbolt Explosion 
+Gengar,Hypnosis Night_Shade Thunderbolt Explosion 
+Onix,Bind Rock_Slide/Toxic Earthquake Explosion 
+Drowzee,Psychic Seismic_Toss/Hypnosis Thunder_Wave Rest 
+Hypno,Psychic Seismic_Toss Thunder_Wave Rest,Hypnosis Psychic/Seismic_Toss Thunder_Wave Rest/Seismic_Toss 
+Krabby,Swords_Dance Crabhammer Body_Slam Stomp/Blizzard 
+Kingler,Swords_Dance Body_Slam Hyper_Beam Crabhammer 
+Voltorb,Thunderbolt Thunder_Wave Take_Down Explosion 
+Electrode,Thunder_Wave Thunderbolt Screech/Flash Explosion 
+Exeggcute,Sleep_Powder Stun_Spore Psychic Rest/Explosion 
+Exeggutor,Sleep_Powder Psychic Explosion DoubleEdge/Stun_Spore/Mega_Drain/Hyper_Beam 
+Cubone,Earthquake Body_Slam Blizzard Counter 
+Marowak,Earthquake Body_Slam Blizzard Counter 
+Hitmonlee,Meditate High_Jump_Kick Body_Slam Counter/Seismic_Toss/Mega_Kick 
+Hitmonchan,Submission Body_Slam Agility Counter/Ice_Punch 
+Lickitung,Swords_Dance Body_Slam Earthquake Wrap 
+Koffing,Sludge Fire_Blast Thunderbolt Explosion 
+Weezing,Explosion Fire_Blast Thunderbolt Hyper_Beam/Sludge 
+Rhyhorn,Earthquake Rock_Slide Body_Slam Substitute 
+Rhydon,Earthquake Rock_Slide Body_Slam Substitute 
+Chansey,Reflect Seismic_Toss/Ice_Beam SoftBoiled Thunder_Wave,Thunderbolt Ice_Beam SoftBoiled Thunder_Wave,Sing Ice_Beam/Seismic_Toss SoftBoiled Thunder_Wave/Counter 
+Tangela,Sleep_Powder Stun_Spore Bind Body_Slam/Mega_Drain/Rest,Sleep_Powder Stun_Spore Growth Mega_Drain 
+Kangaskhan,Body_Slam Hyper_Beam Earthquake Rock_Slide/Counter/Blizzard 
+Horsea,Surf Blizzard DoubleEdge Agility 
+Seadra,Surf/Hydro_Pump Blizzard Rest/Toxic/Hydro_Pump Agility 
+Goldeen,Surf Blizzard DoubleEdge Agility 
+Seaking,Agility Surf Blizzard/Ice_Beam Hyper_Beam 
+Staryu,Blizzard/Surf Psychic/Thunderbolt Thunder_Wave Recover 
+Starmie,Recover Thunder_Wave Blizzard/Thunderbolt Psychic/Thunderbolt/Surf 
+Mr. Mime,Psychic Thunderbolt Thunder_Wave Seismic_Toss 
+Scyther,Slash Swords_Dance Hyper_Beam Agility/DoubleEdge 
+Jynx,Lovely_Kiss Blizzard Psychic Rest 
+Electabuzz,Thunder_Wave Thunderbolt Body_Slam/Seismic_Toss Psychic/Seismic_Toss 
+Magmar,Fire_Blast Seismic_Toss Submission/Body_Slam Psychic/Body_Slam 
+Pinsir,Swords_Dance Hyper_Beam Slash/Body_Slam/Bind Submission/Bind 
+Tauros,Body_Slam Hyper_Beam Blizzard Earthquake 
+Magikarp,Splash Tackle 
+Gyarados,Body_Slam Blizzard Hyper_Beam/Hydro_Pump Thunderbolt/Hydro_Pump 
+Lapras,Blizzard Thunderbolt Body_Slam Rest/Hyper_Beam 
+Ditto,Transform 
+Eevee,Body_Slam DoubleEdge Quick_Attack Sand_Attack,Body_Slam DoubleEdge Reflect Rest 
+Vaporeon,Surf Blizzard Body_Slam Rest 
+Jolteon,Thunder_Wave Thunderbolt Double_Kick Rest/Pin_Missile 
+Flareon,Fire_Blast Body_Slam Hyper_Beam Fire_Spin/Tail_Whip 
+Porygon,Thunderbolt Psychic/Blizzard Thunder_Wave Recover,Conversion Ice_Beam/Psychic/Thunderbolt Thunder_Wave Recover 
+Omanyte,Surf/Hydro_Pump Blizzard Reflect Rest 
+Omastar,Surf/Hydro_Pump Blizzard Body_Slam Rest 
+Kabuto,Surf/Hydro_Pump Blizzard Slash Rest,Swords_Dance Hydro_Pump Body_Slam Slash 
+Kabutops,Swords_Dance Hyper_Beam Body_Slam/Slash Surf,Rest Slash/Body_Slam Body_Slam/Submission Surf 
+Aerodactyl,DoubleEdge Hyper_Beam Fire_Blast Toxic/Agility 
+Snorlax,Body_Slam Reflect Rest Ice_Beam/SelfDestruct/Hyper_Beam/Earthquake,Body_Slam Hyper_Beam/Counter SelfDestruct Earthquake/Counter,Body_Slam Blizzard/Ice_Beam Amnesia Rest/SelfDestruct 
+Articuno,Blizzard DoubleEdge Hyper_Beam Agility 
+Zapdos,Thunderbolt Drill_Peck Thunder_Wave Agility 
+Moltres,Fire_Blast Hyper_Beam Fire_Spin Agility/Toxic,Fire_Blast Fire_Spin/Reflect Toxic/Fire_Spin Rest 
+Dratini,Surf Hyper_Beam Wrap Agility,Body_Slam Surf Thunder_Wave Wrap 
+Dragonair,Wrap Thunder_Wave Hyper_Beam Agility/Thunderbolt 
+Dragonite,Agility Wrap Blizzard Thunder_Wave/Hyper_Beam/Body_Slam/Thunderbolt,Wrap Thunder_Wave/Thunderbolt Blizzard Body_Slam/Thunderbolt/Hyper_Beam,Blizzard Body_Slam Thunderbolt/Thunder_Wave Hyper_Beam/Thunder_Wave,Blizzard Thunderbolt Hyper_Beam/Body_Slam Agility 
+Mewtwo,Amnesia Psychic/Thunderbolt/Submission Thunderbolt/Ice_Beam Recover,Amnesia Recover/Thunder_Wave Thunderbolt SelfDestruct,Amnesia Thunderbolt/Ice_Beam/Psychic Flash/Barrier Recover 
+Mew,Swords_Dance Earthquake Body_Slam/Hyper_Beam SoftBoiled/Explosion,Reflect Swords_Dance Body_Slam/Earthquake SoftBoiled,Thunder_Wave Swords_Dance Body_Slam/Earthquake/Reflect Explosion,Transform Thunder_Wave SoftBoiled Reflect

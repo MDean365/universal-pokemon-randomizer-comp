@@ -1,0 +1,649 @@
+Bulbasaur,Sleep_Powder Leaf_Storm Sludge_Bomb Hidden_Power_Fire
+Ivysaur,Knock_Off Sludge_Bomb Synthesis Giga_Drain/Leech_Seed
+Venusaur,Sunny_Day Growth Giga_Drain Hidden_Power_Fire/Sludge_Bomb
+Charmander,Dragon_Dance Flare_Blitz Thunder_Punch Brick_Break/Rock_Slide,Flare_Blitz Thunder_Punch Brick_Break Rock_Slide
+Charmeleon
+Charizard,Fire_Blast Air_Slash Hidden_Power_Grass Flamethrower,Fire_Blast Flamethrower Focus_Blast Air_Slash/Hidden_Power_Grass,Swords_Dance Acrobatics Earthquake Roost,Fire_Blast Air_Slash Hidden_Power_Grass/Substitute Roost
+Squirtle,Fake_Out Aqua_Jet Waterfall Brick_Break/Ice_Punch,Surf Rapid_Spin Toxic/Yawn Hidden_Power_Fire,Water_Spout Hydro_Pump Ice_Beam Hidden_Power_Grass/Hidden_Power_Fire
+Wartortle,Rapid_Spin Foresight Scald Toxic/Haze
+Blastoise,Rapid_Spin Scald Roar/Dragon_Tail Foresight/Toxic
+Caterpie
+Metapod
+Butterfree,Sleep_Powder Quiver_Dance Bug_Buzz Substitute/Hidden_Power_Rock,Sleep_Powder Stun_Spore Bug_Buzz Uturn
+Weedle
+Kakuna
+Beedrill,Toxic_Spikes Endeavor Uturn Tailwind
+Pidgey,Brave_Bird Uturn Feint_Attack/Pursuit Return/Steel_Wing
+Pidgeotto
+Pidgeot,Brave_Bird Return Uturn Quick_Attack
+Rattata,Facade Sucker_Punch Flame_Wheel Protect/Wild_Charge/Uturn,Return Uturn Flame_Wheel/Wild_Charge Crunch/Sucker_Punch
+Raticate,Facade Sucker_Punch Uturn Pursuit/Swords_Dance
+Spearow,Drill_Peck Return/Quick_Attack Uturn Pursuit
+Fearow,Return Drill_Peck Drill_Run Uturn/Pursuit
+Ekans,Coil Gunk_Shot Sucker_Punch Rest/Earthquake,Switcheroo Glare Swagger Acid_Spray/Giga_Drain
+Arbok,Coil Gunk_Shot Sucker_Punch Earthquake/Seed_Bomb
+Pikachu,Substitute Thunderbolt Hidden_Power_Ice Encore/Grass_Knot
+Raichu,Encore Nasty_Plot Thunderbolt Grass_Knot
+Sandshrew,Swords_Dance Earthquake Rock_Slide Night_Slash,Earthquake Rock_Slide/Stealth_Rock Rapid_Spin Night_Slash/Stealth_Rock
+Sandslash,Rapid_Spin Earthquake Stone_Edge/Night_Slash Swords_Dance/Stealth_Rock
+Nidoran♀
+Nidorina
+Nidoqueen,Earth_Power Fire_Blast Ice_Beam/Focus_Blast/Sludge_Wave Stealth_Rock/Focus_Blast,Stealth_Rock Earth_Power Fire_Blast/Ice_Beam Dragon_Tail/Roar
+Nidoran♂
+Nidorino
+Nidoking,Earth_Power Fire_Blast Ice_Beam/Focus_Blast Substitute/Stealth_Rock,Earth_Power Sludge_Wave Ice_Beam Fire_Blast/Thunderbolt
+Clefairy,Knock_Off/Thunder_Wave Seismic_Toss SoftBoiled Stealth_Rock/Encore/Heal_Bell,Knock_Off/Thunder_Wave Seismic_Toss SoftBoiled Stealth_Rock/Encore/Heal_Bell
+Clefable,Wish Protect/SoftBoiled Seismic_Toss Heal_Bell/Stealth_Rock/Encore,DoubleEdge Grass_Knot/Flamethrower Stealth_Rock/Wish SoftBoiled/Protect,DoubleEdge Grass_Knot Fire_Blast SoftBoiled,Calm_Mind Thunderbolt Ice_Beam SoftBoiled
+Vulpix
+Ninetales,Flamethrower WillOWisp Sunny_Day Pain_Split/Protect
+Jigglypuff
+Wigglytuff,Stealth_Rock Wish Protect DoubleEdge
+Zubat,Brave_Bird Steel_Wing/Super_Fang Bite/Pursuit Pursuit/Heat_Wave/Uturn,Brave_Bird Super_Fang Taunt/Toxic Roost
+Golbat,Taunt Roost Toxic/Super_Fang Brave_Bird
+Oddish,Solar_Beam Hidden_Power_Fire Sludge_Bomb/Sleep_Powder Sunny_Day
+Gloom,Sludge_Bomb Giga_Drain Leech_Seed Synthesis
+Vileplume,Aromatherapy Giga_Drain Sludge_Bomb Moonlight,Sleep_Powder Giga_Drain Sludge_Bomb Moonlight
+Paras,Spore Bug_Bite/XScissor Bullet_Seed Synthesis/Stun_Spore,Agility Spore XScissor Bullet_Seed
+Parasect,Spore Leech_Seed Seed_Bomb XScissor/Protect
+Venonat,Agility Baton_Pass Sleep_Powder Signal_Beam/Psychic,Substitute Disable Morning_Sun Signal_Beam
+Venomoth,Quiver_Dance Baton_Pass Sleep_Powder Bug_Buzz
+Diglett,Earthquake Beat_Up Sucker_Punch/Pursuit Substitute/Stealth_Rock,Earthquake Beat_Up Pursuit Final_Gambit,Earthquake Rock_Slide Substitute/Beat_Up Protect
+Dugtrio,Earthquake Stone_Edge Memento Stealth_Rock
+Meowth,Fake_Out Uturn Covet/Return Bite
+Persian,Fake_Out Uturn Taunt/Bite Return
+Psyduck,Hydro_Pump/Surf Ice_Beam Hidden_Power_Fire/Hidden_Power_Grass Signal_Beam
+Golduck,Hydro_Pump Ice_Beam Hidden_Power_Electric Scald
+Mankey,Close_Combat Uturn Punishment Final_Gambit/Ice_Punch
+Primeape,Close_Combat Uturn Ice_Punch Stone_Edge,Close_Combat Uturn Ice_Punch Stone_Edge,Close_Combat Encore Uturn Punishment/Ice_Punch
+Growlithe,Flare_Blitz Wild_Charge/Return Morning_Sun WillOWisp
+Arcanine,Flare_Blitz Extreme_Speed Wild_Charge/Crunch Close_Combat/Morning_Sun,Flare_Blitz/Flamethrower Extreme_Speed/Hidden_Power_Grass Morning_Sun WillOWisp/Toxic,Sunny_Day Fire_Blast/Flamethrower Solar_Beam Morning_Sun
+Poliwag,Hydro_Pump/Surf Ice_Beam Hidden_Power_Grass Hypnosis/Rain_Dance,Belly_Drum Waterfall Return Hypnosis
+Poliwhirl
+Poliwrath,Protect/Rest Toxic/Sleep_Talk Scald Circle_Throw,Substitute Focus_Punch Waterfall Bulk_Up/Encore
+Abra,Psychic Shadow_Ball Hidden_Power_Fighting/Energy_Ball Protect,Psychic Shadow_Ball Hidden_Power_Fighting Substitute/Protect/Charge_Beam
+Kadabra,Psychic Signal_Beam Hidden_Power_Ground Encore/Substitute
+Alakazam,Psychic/Psyshock Hidden_Power_Ice/Grass_Knot Focus_Blast/Hidden_Power_Fire Encore/Thunder_Wave/Shadow_Ball/Signal_Beam
+Machop,Dynamic_Punch Payback Ice_Punch Rock_Slide
+Machoke
+Machamp,Substitute Dynamic_Punch Stone_Edge Thunder_Punch/Toxic,Bulk_Up Dynamic_Punch Stone_Edge Thunder_Punch/Ice_Punch
+Bellsprout,Solar_Beam Sludge_Bomb/Sunny_Day Sleep_Powder/Growth Weather_Ball/Hidden_Power_Fire,Swords_Dance Sleep_Powder Seed_Bomb Sucker_Punch,Growth Weather_Ball Seed_Bomb/Solar_Beam Sunny_Day/Sucker_Punch
+Weepinbell,Growth Solar_Beam Sludge_Bomb Weather_Ball
+Victreebel,Growth Leaf_Blade/Power_Whip Weather_Ball/Hidden_Power_Fire Sludge_Bomb/Sleep_Powder
+Tentacool,Rapid_Spin Toxic_Spikes Scald Toxic/Hidden_Power_Electric
+Tentacruel,Scald Rapid_Spin Toxic/Toxic_Spikes/Substitute Protect
+Geodude,Stealth_Rock Stone_Edge/Rock_Slide Earthquake/Sucker_Punch Fire_Punch,Rock_Polish Stone_Edge/Rock_Slide Earthquake Fire_Punch/Explosion
+Graveler,Stealth_Rock Earthquake Stone_Edge/Rock_Blast Sucker_Punch/Toxic
+Golem,Stealth_Rock Rock_Blast Earthquake Sucker_Punch/Toxic,Stealth_Rock Earthquake Rock_Blast Explosion
+Ponyta,Flare_Blitz Wild_Charge Return Flame_Charge,Flare_Blitz Wild_Charge WillOWisp Morning_Sun
+Rapidash,Flare_Blitz Wild_Charge Low_Kick Morning_Sun/Baton_Pass
+Slowpoke,Scald/Surf Psychic Slack_Off Toxic/Thunder_Wave,Trick_Room Surf Psychic Slack_Off
+Slowbro,Calm_Mind Scald Psyshock Slack_Off,Scald Psyshock Slack_Off Thunder_Wave/Fire_Blast,Surf/Scald Psyshock/Psychic Fire_Blast Grass_Knot/Trick
+Magnemite,Volt_Switch Thunderbolt Flash_Cannon Hidden_Power_Fire
+Magneton,Thunderbolt Volt_Switch Hidden_Power_Fire Flash_Cannon,Thunderbolt Volt_Switch/Substitute Hidden_Power_Fire Flash_Cannon/Charge_Beam,Thunderbolt Volt_Switch Hidden_Power_Fire Flash_Cannon
+Farfetch'd,Swords_Dance Brave_Bird Leaf_Blade Quick_Attack
+Doduo,Brave_Bird Return Quick_Attack/Pursuit Drill_Peck/Quick_Attack
+Dodrio,Brave_Bird Return Pursuit/Quick_Attack Drill_Peck/Quick_Attack,Brave_Bird Return Quick_Attack Pursuit/Drill_Peck
+Seel,Fake_Out Aqua_Jet Ice_Shard Waterfall/Return
+Dewgong,Perish_Song Toxic Ice_Beam Protect/Surf
+Grimer,Poison_Jab/Gunk_Shot Fire_Punch Shadow_Sneak Pain_Split,Curse Poison_Jab Rest Sleep_Talk
+Muk,Poison_Jab Fire_Punch Thunderbolt Toxic/Haze
+Shellder,Shell_Smash Icicle_Spear Rock_Blast Protect,Shell_Smash Icicle_Spear Rock_Blast Ice_Shard
+Cloyster,Shell_Smash Icicle_Spear Rock_Blast Ice_Shard
+Gastly,Shadow_Ball Sludge_Bomb Thunderbolt/Hidden_Power_Fighting Hidden_Power_Fighting/Substitute/Sucker_Punch,Trick Shadow_Ball Hidden_Power_Fighting/Sludge_Bomb WillOWisp,Shadow_Ball Hidden_Power_Fighting/Sludge_Bomb/Substitute WillOWisp Pain_Split/Knock_Off,Shadow_Ball Sludge_Bomb Thunderbolt/Hidden_Power_Fighting Trick
+Haunter,Shadow_Ball Sludge_Bomb Hidden_Power_Ground Destiny_Bond,Substitute Disable Shadow_Ball Sludge_Bomb,Shadow_Ball Sludge_Bomb Destiny_Bond Trick
+Gengar,Shadow_Ball Focus_Blast/Trick WillOWisp Hidden_Power_Ice,Substitute WillOWisp Shadow_Ball Focus_Blast
+Onix,Stealth_Rock Dragon_Tail Stone_Edge Earthquake/Protect,Rock_Polish Earthquake Stone_Edge Explosion
+Drowzee,Zen_Headbutt/Psycho_Cut Ice_Punch Thunder_Punch Drain_Punch
+Hypno,Wish Protect Thunder_Wave/Toxic Foul_Play/Seismic_Toss
+Krabby,Agility Swords_Dance Crabhammer Return,Crabhammer Return Superpower XScissor,Crabhammer Return Rock_Slide XScissor
+Kingler,Substitute Swords_Dance Crabhammer Return/XScissor,Crabhammer XScissor DoubleEdge Toxic
+Voltorb,Thunderbolt Hidden_Power_Ice/Hidden_Power_Fire Substitute/Signal_Beam Explosion/Taunt,Charge_Beam Hidden_Power_Ice Thunderbolt Substitute,Rain_Dance Thunder Taunt/Protect Explosion/Volt_Switch
+Electrode,Thunderbolt Volt_Switch Hidden_Power_Grass Signal_Beam/Taunt
+Exeggcute,Sleep_Powder Substitute Leaf_Storm/Giga_Drain Psychic,Wish/Synthesis Giga_Drain Leech_Seed/Hidden_Power_Fire Protect/Toxic,Giga_Drain/Solar_Beam Psychic Hidden_Power_Fire/Hidden_Power_Fighting Sleep_Powder/Synthesis/Sunny_Day
+Exeggutor,Rest Sleep_Powder Giga_Drain Psychic,Leaf_Storm Psychic Hidden_Power_Ground Sleep_Powder/Giga_Drain,Substitute Leech_Seed Psychic Protect/Sleep_Powder,Sunny_Day Solar_Beam Psychic Sleep_Powder/Hidden_Power_Fire
+Cubone,Earthquake Swords_Dance Fire_Punch DoubleEdge
+Marowak,Earthquake DoubleEdge Fire_Punch Stone_Edge/Swords_Dance,Substitute Earthquake DoubleEdge Fire_Punch/Swords_Dance
+Hitmonlee,Close_Combat/High_Jump_Kick Stone_Edge Mach_Punch/Fake_Out Return/Earthquake,High_Jump_Kick Sucker_Punch/Mach_Punch DoubleEdge/Stone_Edge Earthquake,Reversal Endure Stone_Edge Earthquake/Mach_Punch
+Hitmonchan,Drain_Punch/Close_Combat Mach_Punch Thunder_Punch Ice_Punch/Rapid_Spin
+Lickitung,Wish Protect Dragon_Tail Heal_Bell/Toxic/Return,Rest Sleep_Talk Curse Dragon_Tail
+Koffing,Pain_Split Clear_Smog WillOWisp/Toxic Fire_Blast,Rest Sleep_Talk Clear_Smog Fire_Blast/Sludge_Bomb
+Weezing,WillOWisp Sludge_Bomb Flamethrower/Pain_Split Haze/Taunt
+Rhyhorn,Rock_Polish Earthquake Stone_Edge/Rock_Blast Swords_Dance/Megahorn,Earthquake Rock_Blast Aqua_Tail/Fire_Fang Megahorn
+Rhydon,Stealth_Rock/Substitute Earthquake Rock_Blast/Stone_Edge Megahorn,Earthquake Stone_Edge Megahorn DoubleEdge/Rock_Blast,Rock_Polish Earthquake Stone_Edge Megahorn
+Chansey,Wish/Heal_Bell SoftBoiled Toxic Seismic_Toss/Heal_Bell/Snatch
+Tangela,Giga_Drain Leech_Seed/Synthesis Sleep_Powder Hidden_Power_Rock/Stun_Spore,Leaf_Storm Sleep_Powder Hidden_Power_Rock Giga_Drain/Synthesis
+Kangaskhan,DoubleEdge/Return Earthquake/Drain_Punch Fake_Out Sucker_Punch,DoubleEdge Earthquake Sucker_Punch Return,Substitute Focus_Punch Sucker_Punch Return
+Horsea,Rain_Dance Hydro_Pump/Surf Ice_Beam Hidden_Power_Grass/Hidden_Power_Electric
+Seadra,Disable Substitute Hydro_Pump/Scald Ice_Beam
+Goldeen,Aqua_Tail Megahorn Drill_Run Knock_Off
+Seaking,Waterfall Megahorn Return Ice_Beam
+Staryu,Scald Thunderbolt/Thunder_Wave/Toxic Recover Rapid_Spin
+Starmie,Rapid_Spin Hydro_Pump Ice_Beam Thunderbolt,Hydro_Pump Surf Ice_Beam Thunder
+Mr. Mime,Baton_Pass Nasty_Plot Substitute/Encore Psychic
+Scyther,Swords_Dance Aerial_Ace Bug_Bite/Quick_Attack Brick_Break/Quick_Attack,Uturn Aerial_Ace Bug_Bite/Quick_Attack Brick_Break/Bug_Bite,Swords_Dance Aerial_Ace Roost Baton_Pass/Brick_Break
+Jynx,Nasty_Plot Ice_Beam Psyshock/Focus_Blast Lovely_Kiss/Substitute,Calm_Mind Ice_Beam/Psyshock Taunt/Substitute Lovely_Kiss
+Electabuzz,Volt_Switch Thunderbolt Focus_Blast Hidden_Power_Ice,Volt_Switch Thunderbolt Focus_Blast Hidden_Power_Ice
+Magmar,Flamethrower Focus_Blast Hidden_Power_Grass WillOWisp/Substitute
+Pinsir,Swords_Dance XScissor Earthquake Quick_Attack,XScissor Close_Combat Stone_Edge Earthquake
+Tauros,Rock_Climb Earthquake Zen_Headbutt Substitute,DoubleEdge Earthquake Stone_Edge Pursuit/Retaliate,Substitute Endeavor Rock_Climb Zen_Headbutt
+Magikarp,Splash Tackle Flail Bounce
+Gyarados,Substitute/Taunt Dragon_Dance Waterfall Bounce,Dragon_Dance Waterfall Bounce Stone_Edge/Earthquake,Waterfall Ice_Fang Stone_Edge Earthquake,Rest Sleep_Talk Waterfall Roar/Dragon_Tail,Waterfall/Aqua_Tail DoubleEdge Ice_Fang/Stone_Edge Earthquake
+Lapras,Hydro_Pump Thunderbolt Ice_Beam Substitute/Frost_Breath
+Ditto,Transform
+Eevee,Quick_Attack Return Bite Baton_Pass/Iron_Tail,Work_Up/Return Quick_Attack Shadow_Ball/Bite Hidden_Power_Fire/Hidden_Power_Ice
+Vaporeon,Hydro_Pump/Surf Ice_Beam Hidden_Power_Grass Rest
+Jolteon,Thunderbolt Shadow_Ball/Signal_Beam Hidden_Power_Ice Volt_Switch
+Flareon,Wish Protect Flamethrower/Lava_Plume Toxic/Roar
+Porygon,Psychic/Tri_Attack Thunder_Wave/Toxic Thunderbolt/Ice_Beam Recover
+Omanyte,Shell_Smash Surf Ice_Beam Substitute/Hidden_Power_Grass/Toxic_Spikes,Stealth_Rock Toxic_Spikes Scald Knock_Off
+Omastar,Shell_Smash Surf/Hydro_Pump Ice_Beam Hidden_Power_Grass,Spikes Scald/Hydro_Pump Icy_Wind/Ice_Beam Stealth_Rock/Shell_Smash,Spikes Stealth_Rock/Toxic_Spikes Scald Ice_Beam
+Kabuto,Waterfall Rock_Slide Aqua_Jet Rain_Dance/Hone_Claws,Stealth_Rock Aqua_Jet Rock_Slide/Waterfall Rapid_Spin/Protect
+Kabutops,Rapid_Spin Stone_Edge Aqua_Jet Swords_Dance/Waterfall,Swords_Dance Stone_Edge Aqua_Jet Waterfall,Stone_Edge Aqua_Jet Waterfall Superpower
+Aerodactyl,Stone_Edge Earthquake Fire_Blast/DoubleEdge Roost,Stone_Edge Earthquake Aqua_Tail DoubleEdge
+Snorlax,Return/Body_Slam Pursuit Earthquake Crunch/Fire_Punch,Curse Return Crunch Earthquake/Fire_Punch,Curse Body_Slam Earthquake/Crunch Rest,Rest Sleep_Talk Body_Slam Whirlwind
+Articuno,Ice_Beam Roost Substitute Roar/Toxic
+Zapdos,Thunderbolt Heat_Wave Hidden_Power_Grass/Hidden_Power_Ice Roost,Substitute Roost Thunderbolt Hidden_Power_Ice/Hidden_Power_Flying,Discharge/Thunderbolt Roost Hidden_Power_Grass/Hidden_Power_Flying Heat_Wave/Toxic,Thunderbolt Hidden_Power_Flying Heat_Wave Volt_Switch,Discharge/Thunderbolt Roost Heat_Wave/Toxic Hidden_Power_Grass/Roar/Hidden_Power_Ice,Thunderbolt Hidden_Power_Ice/Hidden_Power_Flying Agility Roost
+Moltres,Fire_Blast Hurricane Hidden_Power_Grass/Substitute Roost,Fire_Blast Hurricane Hidden_Power_Grass Uturn,Agility Hurricane Flamethrower Roost/Hidden_Power_Grass,Substitute Roost Toxic Flamethrower,Hurricane Fire_Blast Uturn Sleep_Talk/Flamethrower
+Dratini,Dragon_Dance Outrage Extreme_Speed Fire_Blast,Dragon_Dance Outrage Rest Sleep_Talk
+Dragonair,Dragon_Dance Outrage Rest Sleep_Talk
+Dragonite,Dragon_Dance Outrage Earthquake/Extreme_Speed/Fire_Punch Extreme_Speed/Earthquake,Substitute Dragon_Dance Dragon_Claw Roost,Outrage Extreme_Speed Fire_Punch/Dragon_Claw Superpower/Earthquake
+Mewtwo,Psystrike Ice_Beam Aura_Sphere/Fire_Blast Fire_Blast/Calm_Mind,Calm_Mind Psystrike Recover Flamethrower/Aura_Sphere/Ice_Beam,Taunt Recover WillOWisp/Toxic Psystrike/Light_Screen/Substitute,Psystrike Ice_Beam Aura_Sphere/Fire_Blast/Flamethrower Fire_Blast/Trick/Flamethrower
+Mew,Nasty_Plot Psyshock/Psychic Fire_Blast/Aura_Sphere Giga_Drain/Dark_Pulse,Swords_Dance Zen_Headbutt Drain_Punch Sucker_Punch,Taunt WillOWisp SoftBoiled Psyshock/Psychic
+Chikorita,Aromatherapy Giga_Drain Toxic Synthesis,Reflect Light_Screen Leaf_Storm/Giga_Drain Magic_Coat/Synthesis
+Bayleef
+Meganium,Aromatherapy Dragon_Tail Giga_Drain Synthesis/Toxic
+Cyndaquil,Eruption Fire_Blast Hidden_Power_Grass Nature_Power
+Quilava
+Typhlosion,Eruption Fire_Blast Focus_Blast Hidden_Power_Grass/Hidden_Power_Rock,Eruption Fire_Blast Focus_Blast Hidden_Power_Rock,Sunny_Day Fire_Blast Solar_Beam Hidden_Power_Rock
+Totodile,Dragon_Dance Waterfall Ice_Punch Crunch/Rock_Slide,Swords_Dance Aqua_Jet Ice_Punch Crunch/Waterfall
+Croconaw
+Feraligatr,Swords_Dance Aqua_Jet Waterfall Return/Crunch,Dragon_Dance Waterfall Ice_Punch Earthquake/Crunch
+Sentret,Hyper_Voice Flamethrower Shadow_Ball/Surf Trick
+Furret,Trick Return/DoubleEdge Uturn Aqua_Tail/Shadow_Claw
+Hoothoot,Reflect Roost Air_Slash Hypnosis/Whirlwind
+Noctowl,Roost Whirlwind Night_Shade/Air_Slash Toxic
+Ledyba,Roost Encore Reflect/Knock_Off Bug_Buzz
+Ledian,Encore Light_Screen Reflect Uturn/Roost
+Spinarak,Agility Night_Slash Bug_Bite Poison_Jab/Cross_Poison
+Ariados,Toxic_Spikes XScissor Sucker_Punch Baton_Pass/Poison_Jab
+Crobat,Brave_Bird Taunt Roost Uturn/Toxic/Super_Fang,Brave_Bird Uturn Cross_Poison/Super_Fang Sleep_Talk/Roost
+Chinchou,Volt_Switch Thunderbolt Hydro_Pump Hidden_Power_Fire/Toxic,Volt_Switch Scald Rest Sleep_Talk
+Lanturn,Scald Volt_Switch Thunder_Wave/Toxic Protect/Heal_Bell,Volt_Switch Hydro_Pump/Surf Thunderbolt Ice_Beam
+Pichu,Volt_Tackle Return Thunder_Punch Iron_Tail/Toxic,Fake_Out Volt_Tackle Encore Volt_Switch/Light_Screen/Toxic,Nasty_Plot Encore Thunderbolt Hidden_Power_Grass
+Cleffa,Endeavor Protect Encore Thunder_Wave/Toxic,Reflect Light_Screen Thunder_Wave Wish,Wish Protect Toxic Fire_Blast
+Igglybuff
+Togepi
+Togetic,Nasty_Plot Baton_Pass Roost Hyper_Voice/Fire_Blast
+Natu,Night_Shade Roost Uturn Toxic/Reflect
+Xatu,Thunder_Wave/Toxic Roost Uturn Psychic/Night_Shade,Psyshock/Psychic Grass_Knot Heat_Wave Roost
+Mareep,Reflect Light_Screen Thunderbolt/Discharge Thunder_Wave
+Flaaffy
+Ampharos,Thunderbolt Hidden_Power_Ice/Hidden_Power_Grass Volt_Switch Focus_Blast/Heal_Bell,Thunderbolt Heal_Bell Toxic Volt_Switch/Focus_Blast,Reflect Light_Screen Volt_Switch Heal_Bell
+Bellossom,Sleep_Powder Stun_Spore Giga_Drain Hidden_Power_Rock/Synthesis
+Marill
+Azumarill,Aqua_Jet Waterfall DoubleEdge Ice_Punch
+Sudowoodo,Stealth_Rock Stone_Edge Wood_Hammer Toxic,Stone_Edge Wood_Hammer Earthquake Sucker_Punch
+Politoed,Scald Protect Refresh Encore/Toxic
+Hoppip,Encore Sleep_Powder Sunny_Day Memento/Uturn,Encore Aromatherapy Sleep_Powder/Leech_Seed Memento/Uturn,Swords_Dance Acrobatics Protect/Synthesis Seed_Bomb
+Skiploom
+Jumpluff,Encore Acrobatics Seed_Bomb Uturn/Swords_Dance
+Aipom,Fake_Out Fury_Swipes Shadow_Claw/Beat_Up Uturn
+Sunkern
+Sunflora,Sunny_Day Solar_Beam Hidden_Power_Rock/Earth_Power Endeavor/Encore
+Yanma
+Wooper,Earthquake Waterfall/Ice_Punch/Encore Toxic Recover
+Quagsire,Recover Scald Earthquake Toxic/Encore
+Espeon,Reflect Light_Screen Psychic Grass_Knot
+Umbreon,Wish Foul_Play Heal_Bell/Toxic/Yawn Protect
+Murkrow,Calm_Mind Roost Dark_Pulse Feather_Dance/Substitute
+Slowking,Scald Slack_Off Psyshock/Fire_Blast Thunder_Wave/Toxic,Surf Psyshock/Psychic Fire_Blast Trick/Grass_Knot,Trick_Room Surf Fire_Blast Nasty_Plot/Psyshock,Calm_Mind Scald Fire_Blast/Psyshock Slack_Off
+Misdreavus,WillOWisp Shadow_Ball/Foul_Play Pain_Split Taunt/Heal_Bell/Perish_Song,Nasty_Plot Shadow_Ball Thunderbolt Taunt/WillOWisp
+Unown,Hidden_Power_Ice/Hidden_Power_Fighting/Hidden_Power_Psychic,Hidden_Power_Ice/Hidden_Power_Fighting/Hidden_Power_Psychic/Hidden_Power_Electric
+Wobbuffet,Counter Mirror_Coat Encore Safeguard/Tickle
+Girafarig,Baton_Pass Calm_Mind Psychic Hyper_Voice/Thunderbolt
+Pineco,Rapid_Spin Stealth_Rock/Spikes Payback/Protect Bug_Bite
+Forretress,Spikes/Toxic_Spikes Rapid_Spin Volt_Switch Hidden_Power_Ice
+Dunsparce,Glare/Body_Slam Coil Headbutt/Rock_Slide Roost
+Gligar,Roost Earthquake Uturn/Toxic Toxic/Taunt/Stealth_Rock
+Steelix,Stealth_Rock Earthquake Gyro_Ball Roar/Dragon_Tail,Stealth_Rock Earthquake Heavy_Slam Explosion,Stealth_Rock Earthquake Iron_Tail/Iron_Head Crunch
+Snubbull,Thunder_Wave/Bulk_Up Return Crunch Close_Combat/Brick_Break
+Granbull,Return Close_Combat/Crunch Heal_Bell Toxic/Thunder_Wave
+Qwilfish,Spikes Pain_Split Waterfall Thunder_Wave/Taunt/Haze
+Scizor,Bullet_Punch Pursuit Superpower Swords_Dance,Uturn Pursuit Superpower Bullet_Punch
+Shuckle,Stealth_Rock Toxic Encore Knock_Off/Protect
+Heracross,Close_Combat Megahorn Stone_Edge Earthquake/Sleep_Talk,Swords_Dance Close_Combat Megahorn Stone_Edge,Close_Combat Megahorn Stone_Edge Sleep_Talk/Earthquake,Substitute Close_Combat Megahorn Stone_Edge
+Sneasel,Pursuit Ice_Punch Punishment/Foul_Play Ice_Shard/Taunt
+Teddiursa,Swords_Dance/Protect Facade Close_Combat Crunch
+Ursaring,Protect/Swords_Dance Facade Close_Combat Crunch,Swords_Dance Facade Earthquake Crunch
+Slugma,Stockpile Recover Flamethrower/Lava_Plume WillOWisp/Toxic/Hidden_Power_Grass,Light_Screen Reflect Memento Lava_Plume
+Magcargo,Stealth_Rock Recover Lava_Plume Toxic
+Swinub,Earthquake Superpower/Icicle_Spear Ice_Shard Stealth_Rock
+Piloswine,Stealth_Rock Earthquake Icicle_Spear Ice_Shard
+Corsola,Power_Gem Recover Toxic Stealth_Rock/Scald
+Remoraid,Water_Spout Surf Fire_Blast Hidden_Power_Ground/Hidden_Power_Grass,Waterfall Seed_Bomb Return Water_Spout/Fire_Blast,Waterfall Water_Spout Seed_Bomb Fire_Blast
+Octillery,Hydro_Pump Ice_Beam Energy_Ball Fire_Blast
+Delibird,Aerial_Ace Ice_Shard Ice_Punch Focus_Punch/Brick_Break
+Mantine,Rain_Dance Hydro_Pump Air_Slash Ice_Beam/Hidden_Power_Electric,Rest Sleep_Talk Scald Air_Slash
+Skarmory,Roost Spikes Whirlwind Brave_Bird/Taunt,Spikes Stealth_Rock Brave_Bird Taunt
+Houndour,Sucker_Punch Crunch/Dark_Pulse Fire_Blast Protect/Substitute
+Houndoom,Pursuit Sucker_Punch Fire_Blast Crunch/Hidden_Power_Grass,Nasty_Plot Fire_Blast Dark_Pulse Hidden_Power_Fighting/Hidden_Power_Grass
+Kingdra,Substitute Dragon_Dance Outrage Waterfall,Rain_Dance Hydro_Pump Draco_Meteor Dragon_Pulse/Surf,Dragon_Dance Outrage Waterfall Rain_Dance/Draco_Meteor,Draco_Meteor Hydro_Pump/Surf Dragon_Pulse Hidden_Power_Electric/Surf,Rest Dragon_Dance Outrage Waterfall
+Phanpy,Stealth_Rock Earthquake Knock_Off/Ice_Shard Toxic/Roar
+Donphan,Rapid_Spin Earthquake Stealth_Rock Ice_Shard
+Porygon2,Tri_Attack Ice_Beam Discharge/Thunderbolt Recover,Ice_Beam Discharge/Thunderbolt Toxic/Thunder_Wave Recover,Trick_Room Thunderbolt Ice_Beam/Tri_Attack Recover
+Stantler,DoubleEdge Sucker_Punch Earthquake Toxic
+Smeargle,Spikes Spore Stealth_Rock/Rapid_Spin Whirlwind/Explosion/Memento,Baton_Pass Quiver_Dance/Shift_Gear Spore Substitute,Trick_Room Spore Endeavor Dragon_Rage/Memento/Magic_Coat
+Tyrogue,High_Jump_Kick Fake_Out Mach_Punch Bullet_Punch
+Hitmontop,Rapid_Spin Foresight/Toxic Sucker_Punch/Stone_Edge Close_Combat
+Smoochum,Blizzard Psychic Shadow_Ball Trick
+Elekid,Wild_Charge Ice_Punch Cross_Chop Fire_Punch/Hidden_Power_Grass
+Magby,Belly_Drum Fire_Punch Thunder_Punch Substitute
+Miltank,Milk_Drink Stealth_Rock Heal_Bell/Toxic Body_Slam/Return,Curse Body_Slam/Return Milk_Drink Heal_Bell
+Blissey,SoftBoiled Stealth_Rock Toxic/Ice_Beam Seismic_Toss
+Raikou,Substitute Calm_Mind Thunderbolt Hidden_Power_Ice,Thunderbolt Hidden_Power_Ice/Hidden_Power_Grass Extrasensory Calm_Mind/Volt_Switch,Thunderbolt Volt_Switch Hidden_Power_Ice/Hidden_Power_Grass Extrasensory,Thunderbolt Volt_Switch Hidden_Power_Ice Aura_Sphere/Extrasensory
+Entei,Flare_Blitz Extreme_Speed Stone_Edge Hidden_Power_Grass/Sleep_Talk,Substitute Calm_Mind Flamethrower/Lava_Plume Hidden_Power_Grass/Roar
+Suicune,Hydro_Pump/Surf Calm_Mind Ice_Beam Hidden_Power_Electric,Calm_Mind Rest Sleep_Talk Scald,Rest Sleep_Talk Scald Roar
+Larvitar,Dragon_Dance/Rock_Polish Earthquake Stone_Edge/Rock_Slide Crunch/Facade
+Pupitar
+Tyranitar,Crunch Pursuit Thunder_Wave/Stealth_Rock/Fire_Blast Superpower/Earthquake,Pursuit Crunch Ice_Beam Superpower
+Lugia,Roost Whirlwind/Dragon_Tail Ice_Beam/Substitute Toxic/Reflect,Calm_Mind Ice_Beam Thunder/Whirlwind Roost
+Ho-oh,Sacred_Fire Brave_Bird Substitute/Earthquake Roost,Sacred_Fire Brave_Bird Earthquake Sleep_Talk/Punishment,Flame_Charge/Tailwind Sacred_Fire Brave_Bird Roost/Earthquake,Sacred_Fire Brave_Bird Earthquake Punishment/Sleep_Talk,Sacred_Fire Brave_Bird Substitute/Whirlwind Roost
+Celebi,Recover Uturn Grass_Knot/Psychic Hidden_Power_Ice/Stealth_Rock
+Treecko,Leaf_Storm Hidden_Power_Fire Giga_Drain Quick_Attack,Swords_Dance Bullet_Seed Drain_Punch Rock_Slide/Hidden_Power_Ice
+Grovyle
+Sceptile,Substitute Giga_Drain Focus_Blast Hidden_Power_Rock,Leaf_Storm Focus_Blast Hidden_Power_Rock Giga_Drain,Swords_Dance Leaf_Blade Drain_Punch/Earthquake Acrobatics/Rock_Slide,Substitute Leech_Seed Leaf_Storm/Giga_Drain Hidden_Power_Fire/Focus_Blast
+Torchic,Agility Baton_Pass Fire_Blast Hidden_Power_Grass/Substitute
+Combusken,Swords_Dance Protect Flare_Blitz Sky_Uppercut,Protect Fire_Blast Focus_Blast Substitute
+Blaziken,Swords_Dance Low_Kick Protect Flare_Blitz
+Mudkip
+Marshtomp,Stealth_Rock Waterfall Earthquake Toxic
+Swampert,Stealth_Rock Scald/Waterfall Earthquake Toxic/Roar,Earthquake Waterfall Ice_Punch Superpower/Stone_Edge,Earthquake Waterfall Ice_Punch Stealth_Rock/Roar/Toxic
+Poochyena,Howl Facade Crunch Fire_Fang
+Mightyena,Sucker_Punch Crunch Substitute Taunt/Toxic
+Zigzagoon,Belly_Drum Extreme_Speed Seed_Bomb Protect
+Linoone,Belly_Drum Extreme_Speed Shadow_Claw Seed_Bomb/Rock_Smash/Return
+Wurmple
+Silcoon
+Beautifly,Quiver_Dance Bug_Buzz Hidden_Power_Ground Psychic
+Cascoon
+Dustox,Quiver_Dance Sludge_Bomb Bug_Buzz Roost/Substitute
+Lotad,Rain_Dance Surf Giga_Drain Ice_Beam
+Lombre
+Ludicolo,Rain_Dance Hydro_Pump Giga_Drain Ice_Beam,Scald Giga_Drain Synthesis Leech_Seed
+Seedot,Growth Solar_Beam Explosion Hidden_Power_Fire/Sunny_Day
+Nuzleaf
+Shiftry,Leaf_Storm Dark_Pulse Focus_Blast Energy_Ball/Sucker_Punch,Swords_Dance Seed_Bomb Nature_Power Sucker_Punch
+Taillow,Facade Brave_Bird Quick_Attack Uturn/Protect,Brave_Bird Uturn Return Toxic
+Swellow,Facade Brave_Bird Uturn Quick_Attack
+Wingull,Scald Ice_Beam/Hidden_Power_Grass Rain_Dance/Uturn Hurricane/Air_Slash
+Pelipper,Scald Roost Toxic Hurricane/Uturn
+Ralts,Trick_Room Memento Destiny_Bond Protect
+Kirlia
+Gardevoir,Psychic Signal_Beam Focus_Blast Destiny_Bond,Calm_Mind Substitute Psychic Signal_Beam/Thunderbolt,Reflect Light_Screen Memento Taunt/Psychic
+Surskit,Hydro_Pump Signal_Beam Hidden_Power_Fire/Hidden_Power_Fighting Giga_Drain,Baton_Pass Agility Substitute Hydro_Pump
+Masquerain,Quiver_Dance Baton_Pass Roost Bug_Buzz/Air_Slash
+Shroomish,Spore Giga_Drain Synthesis Toxic/Stun_Spore
+Breloom,Swords_Dance/Bulk_Up Protect Drain_Punch Facade/Seed_Bomb,Substitute Protect Focus_Punch Seed_Bomb/Facade,Bullet_Seed Mach_Punch Low_Sweep Superpower/Stone_Edge/Swords_Dance
+Slakoth
+Vigoroth,Taunt Toxic Slack_Off Return,Bulk_Up Taunt Slack_Off Return
+Slaking,Return Earthquake Night_Slash Pursuit/Retaliate
+Nincada
+Ninjask,Baton_Pass Substitute Protect Swords_Dance/XScissor
+Shedinja,Baton_Pass WillOWisp Protect Shadow_Sneak,Swords_Dance Shadow_Sneak/Shadow_Claw XScissor Protect/WillOWisp
+Whismur,Hyper_Voice Fire_Blast Shadow_Ball Ice_Beam
+Loudred
+Exploud,Hyper_Voice Surf Fire_Blast Low_Kick
+Makuhita,Force_Palm/Toxic Whirlwind Knock_Off Bullet_Punch/Brick_Break,Belly_Drum Close_Combat/Cross_Chop Bullet_Punch Ice_Punch
+Hariyama,Close_Combat Facade Fake_Out Stone_Edge/Bullet_Punch,Whirlwind Force_Palm Rest Sleep_Talk
+Azurill,Waterfall Return/DoubleEdge Encore/Toxic/Hidden_Power_Fire Substitute
+Nosepass,Stone_Edge/Rock_Slide Fire_Punch Thunder_Wave/Stealth_Rock Pain_Split/Stealth_Rock
+Skitty,Fake_Out Return Sucker_Punch/Feint_Attack Zen_Headbutt,Thunder_Wave Return Sucker_Punch Foresight/Fake_Out
+Delcatty,Baton_Pass Calm_Mind Hyper_Voice Substitute
+Sableye,Recover WillOWisp Taunt Foul_Play/Night_Shade
+Mawile,Stealth_Rock Iron_Head Toxic/Sucker_Punch/Swords_Dance Baton_Pass,Swords_Dance Iron_Head Sucker_Punch Thunder_Punch
+Aron,Rock_Polish Head_Smash Iron_Head Earthquake,Head_Smash Iron_Head Earthquake Superpower
+Lairon,Stealth_Rock Head_Smash Earthquake Roar/Toxic,Autotomize Head_Smash Earthquake Iron_Head
+Aggron,Head_Smash Earthquake/Low_Kick Heavy_Slam Aqua_Tail/Fire_Punch,Rock_Polish Head_Smash Earthquake Heavy_Slam
+Meditite
+Medicham,High_Jump_Kick Psycho_Cut Thunder_Punch Trick,High_Jump_Kick Psycho_Cut/Zen_Headbutt Thunder_Punch Drain_Punch/Bullet_Punch
+Electrike,Volt_Switch Flamethrower Thunderbolt Hidden_Power_Grass/Switcheroo,Charge_Beam Substitute Hidden_Power_Grass Thunderbolt/Flamethrower
+Manectric,Volt_Switch Overheat Thunderbolt Switcheroo,Volt_Switch Flamethrower Thunderbolt Hidden_Power_Ice/Hidden_Power_Grass
+Plusle,Nasty_Plot Thunderbolt Hidden_Power_Ice Baton_Pass
+Minun,Nasty_Plot Baton_Pass Encore Thunderbolt
+Volbeat,Tail_Glow Baton_Pass Bug_Buzz/Substitute Thunder_Wave/Encore,Rain_Dance/Sunny_Day Thunder_Wave Encore Uturn
+Illumise,Rain_Dance/Sunny_Day Uturn Encore Thunder_Wave
+Roselia,Spikes Rest/Synthesis Giga_Drain Sludge_Bomb,Sleep_Powder Sludge_Bomb Giga_Drain Synthesis
+Gulpin,Stockpile Pain_Split Encore/Toxic Ice_Beam/Sludge_Bomb
+Swalot,Encore Toxic Sludge_Bomb Pain_Split/Earthquake
+Carvanha,Hydro_Pump Dark_Pulse Ice_Beam Protect,Waterfall Crunch Zen_Headbutt/Aqua_Jet Protect
+Sharpedo,Protect Waterfall Crunch Earthquake,Protect Hydro_Pump/Surf Dark_Pulse Ice_Beam
+Wailmer,Rest Sleep_Talk Roar Scald,Water_Spout Hydro_Pump/Surf Ice_Beam Hidden_Power_Grass/Hidden_Power_Electric
+Wailord,Water_Spout Ice_Beam Hidden_Power_Grass Surf/Hydro_Pump
+Numel,Rest Sleep_Talk Lava_Plume Stockpile/Earth_Power,Flame_Charge Fire_Blast Earth_Power Hidden_Power_Electric
+Camerupt,Stealth_Rock Lava_Plume Earth_Power Roar
+Torkoal,Rapid_Spin Lava_Plume Stealth_Rock Yawn,Shell_Smash Rapid_Spin Fire_Blast Earth_Power/Hidden_Power_Grass
+Spoink,Reflect Light_Screen Psychic Thunder_Wave,Calm_Mind Psychic Shadow_Ball Hidden_Power_Fighting,Psychic Shadow_Ball Hidden_Power_Fighting Trick
+Grumpig,Heal_Bell Psychic Whirlwind Thunder_Wave/Toxic
+Spinda,DoubleEdge Superpower Sucker_Punch Trick_Room
+Trapinch,Earthquake Superpower Crunch Quick_Attack
+Vibrava
+Flygon,Outrage Earthquake Uturn Fire_Punch,Outrage Earthquake Uturn Fire_Punch/Stone_Edge,Earthquake Dragon_Claw/Outrage Roost Fire_Punch/Superpower
+Cacnea,Swords_Dance Sucker_Punch Bullet_Seed/Substitute Drain_Punch/Focus_Punch
+Cacturne,Spikes Destiny_Bond/Swords_Dance Sucker_Punch Seed_Bomb,Swords_Dance Sucker_Punch Seed_Bomb Drain_Punch/Substitute
+Swablu,Roost Toxic Pluck/Hyper_Voice Cotton_Guard
+Altaria,Draco_Meteor Fire_Blast Dragon_Pulse Rest,Dragon_Dance Roost Dragon_Claw Substitute/Heal_Bell
+Zangoose,Facade Close_Combat Night_Slash Quick_Attack,Swords_Dance Facade Close_Combat Quick_Attack/Night_Slash
+Seviper,Sludge_Bomb Flamethrower Giga_Drain Sucker_Punch
+Lunatone,Stealth_Rock Moonlight Hidden_Power_Rock Toxic/Psychic,Rock_Polish Psychic Hidden_Power_Rock Baton_Pass/Earth_Power
+Solrock,Stealth_Rock Reflect Light_Screen Explosion,Stealth_Rock WillOWisp Morning_Sun Rock_Slide
+Barboach,Dragon_Dance Earthquake Waterfall Bounce/Return
+Whiscash,Dragon_Dance Substitute Earthquake Waterfall
+Corphish,Dragon_Dance Waterfall/Crabhammer Superpower/Brick_Break Return/Crunch,Dragon_Dance Waterfall Brick_Break Return/Crunch
+Crawdaunt,Dragon_Dance Waterfall Crunch Substitute/Superpower,Waterfall Crunch Superpower Toxic,Surf Dark_Pulse Ice_Beam Superpower/Hidden_Power_Grass
+Baltoy,Rapid_Spin Stealth_Rock Earth_Power Toxic/Psychic,Reflect Light_Screen Stealth_Rock Toxic/Explosion/Shadow_Ball
+Claydol,Rapid_Spin Stealth_Rock Earthquake Ice_Beam/Toxic
+Lileep,Giga_Drain Toxic Recover Ancient_Power/Hidden_Power_Rock
+Cradily,Stealth_Rock Giga_Drain Rock_Slide/Toxic Recover,Curse Rest Sleep_Talk Rock_Slide/Seed_Bomb
+Anorith,Rapid_Spin Stealth_Rock XScissor Knock_Off/Rock_Blast
+Armaldo,Swords_Dance Rock_Blast/Stone_Edge Aqua_Tail Rapid_Spin
+Feebas
+Milotic,Scald Recover Ice_Beam Haze/Dragon_Tail
+Castform,Sunny_Day/Rain_Dance Weather_Ball Thunderbolt Ice_Beam
+Kecleon,Stealth_Rock Recover Foul_Play Toxic/Thunder_Wave
+Shuppet,Trick_Room Destiny_Bond Taunt Shadow_Sneak/Sucker_Punch
+Banette,Trick_Room Taunt Shadow_Claw/Curse Destiny_Bond
+Duskull,WillOWisp Substitute Pain_Split Icy_Wind/Ice_Beam
+Dusclops,Curse Night_Shade WillOWisp Pain_Split/Rest
+Tropius,Leech_Seed Substitute Air_Slash Protect/Toxic
+Chimecho,Healing_Wish Yawn Psychic Taunt
+Absol,Sucker_Punch Superpower Night_Slash Fire_Blast/Pursuit,Swords_Dance Sucker_Punch Superpower Night_Slash
+Wynaut,Counter Mirror_Coat Encore Safeguard/Tickle
+Snorunt,Spikes Ice_Beam Hidden_Power_Ground Ice_Shard,Disable Ice_Beam Crunch/Shadow_Ball Ice_Shard
+Glalie,Spikes Taunt Explosion Ice_Beam
+Spheal,Protect Substitute Aqua_Ring Super_Fang/Blizzard/Surf/Toxic
+Sealeo
+Walrein,Toxic Ice_Beam Roar/Encore Surf/Protect
+Clamperl,Shell_Smash Surf Ice_Beam/Hidden_Power_Grass Substitute/Protect/Hidden_Power_Grass
+Huntail,Shell_Smash Waterfall Return Ice_Beam
+Gorebyss,Shell_Smash Surf Signal_Beam Substitute/Ice_Beam
+Relicanth,Head_Smash Waterfall Earthquake Zen_Headbutt/DoubleEdge,Rock_Polish Head_Smash Waterfall Earthquake,Head_Smash Waterfall Earthquake Rain_Dance/Stone_Edge
+Luvdisc,Rain_Dance Surf/Hydro_Pump Ice_Beam Hidden_Power_Grass
+Bagon,Wish Dragon_Claw Fire_Blast Protect/Toxic
+Shelgon,Dragon_Dance Outrage Rest Sleep_Talk,Wish Protect Toxic/Roar Dragon_Claw
+Salamence,Dragon_Dance Outrage Earthquake Dragon_Claw,Outrage Earthquake Hidden_Power_Ice/Fire_Blast Dragon_Claw
+Beldum
+Metang,Stealth_Rock Meteor_Mash Toxic Bullet_Punch,Stealth_Rock Meteor_Mash Toxic Psych_Up
+Metagross,Stealth_Rock Pursuit Earthquake Explosion
+Regirock,Stealth_Rock Stone_Edge/Rock_Slide Drain_Punch Toxic/Thunder_Wave
+Regice,Rest Sleep_Talk Ice_Beam Thunderbolt,Rock_Polish Ice_Beam Thunderbolt Focus_Blast
+Registeel,Stealth_Rock Thunder_Wave/Toxic Seismic_Toss Earthquake/Shadow_Claw
+Latias,Calm_Mind Roost Dragon_Pulse Roar/Substitute,Reflect Light_Screen Healing_Wish Draco_Meteor
+Latios,Draco_Meteor Surf Trick Dragon_Pulse/Recover,Draco_Meteor Surf Recover Roar/Hidden_Power_Fire,Draco_Meteor Surf Trick Dragon_Pulse/Recover,Calm_Mind Draco_Meteor/Dragon_Pulse Surf Recover/Hidden_Power_Fire
+Kyogre,Water_Spout Surf Thunder Ice_Beam,Water_Spout Surf/Hydro_Pump Thunder Ice_Beam,Calm_Mind Surf/Scald Thunder Ice_Beam,Calm_Mind Scald/Surf Rest Sleep_Talk,Scald Roar Rest Sleep_Talk,Thunder_Wave Surf/Hydro_Pump Ice_Beam Thunder,Substitute Calm_Mind Surf/Scald Ice_Beam/Thunder,Calm_Mind Rest Surf/Scald Ice_Beam/Thunder
+Groudon,Earthquake Stone_Edge/Fire_Blast Stealth_Rock Dragon_Tail/Thunder_Wave/Toxic,Rock_Polish Earthquake Dragon_Claw/Swords_Dance Stone_Edge/Overheat,Swords_Dance Thunder_Wave Earthquake Stone_Edge,Earthquake Dragon_Claw Stone_Edge Fire_Punch,Stealth_Rock Earthquake Fire_Punch Dragon_Claw/Stone_Edge
+Rayquaza,Dragon_Dance Outrage Earthquake Overheat,Draco_Meteor Fire_Blast/Vcreate Extreme_Speed Outrage/Dragon_Tail,Dragon_Dance Draco_Meteor Outrage Fire_Blast/Earthquake,Swords_Dance Extreme_Speed Dragon_Claw Vcreate,Outrage Vcreate Draco_Meteor Earthquake/Extreme_Speed,Outrage Vcreate Extreme_Speed Earthquake
+Jirachi,Stealth_Rock Icy_Wind Thunder/Energy_Ball Uturn/Energy_Ball/Iron_Head,Wish/Stealth_Rock Iron_Head Body_Slam/Thunder Protect/Uturn/Stealth_Rock,Substitute Calm_Mind Thunder/Thunderbolt Hidden_Power_Ice/Water_Pulse,Substitute Iron_Head Thunder/Thunderbolt Hidden_Power_Ice/Icy_Wind/Water_Pulse,Iron_Head Uturn Ice_Punch/Trick Healing_Wish/Trick
+Deoxys,Light_Screen Reflect Psycho_Boost/Ice_Beam Low_Kick/Fire_Punch
+Turtwig,Reflect Light_Screen Stealth_Rock Seed_Bomb/Hidden_Power_Fire
+Grotle
+Torterra,Earthquake Stone_Edge/Wood_Hammer Rock_Polish/Swords_Dance/Toxic Synthesis,Rock_Polish Swords_Dance Wood_Hammer Earthquake/Stone_Edge,Wood_Hammer Earthquake Stone_Edge Superpower,Wood_Hammer Stone_Edge/Earthquake Synthesis Stealth_Rock
+Chimchar,Fake_Out Stealth_Rock Overheat/Fire_Blast Hidden_Power_Grass/Taunt/Protect
+Monferno,Flare_Blitz Close_Combat Mach_Punch Uturn/Swords_Dance
+Infernape,Overheat Close_Combat Grass_Knot Hidden_Power_Ice/Uturn/Mach_Punch
+Piplup,Stealth_Rock Scald Icy_Wind/Ice_Beam Toxic
+Prinplup
+Empoleon,Agility Substitute Surf/Hydro_Pump Ice_Beam/Grass_Knot,Stealth_Rock Scald Ice_Beam Roar/Toxic,Hydro_Pump Ice_Beam Grass_Knot Scald/Surf,Stealth_Rock Hydro_Pump Ice_Beam Grass_Knot,Agility Hydro_Pump Ice_Beam Grass_Knot
+Starly,Brave_Bird Return Uturn/Pursuit Final_Gambit
+Staravia
+Staraptor,Brave_Bird Close_Combat Uturn DoubleEdge
+Bidoof,Curse Return Aqua_Tail Quick_Attack
+Bibarel,Curse Rest Waterfall Quick_Attack
+Kricketot
+Kricketune,Swords_Dance Bug_Bite Brick_Break Return/Night_Slash
+Shinx,Facade Wild_Charge Ice_Fang/Crunch Fire_Fang/Crunch
+Luxio
+Luxray,Wild_Charge Superpower Facade Crunch,Thunderbolt Superpower Hidden_Power_Grass Volt_Switch/Signal_Beam,Wild_Charge Superpower Ice_Fang Volt_Switch/Crunch
+Budew,Spikes Giga_Drain Sludge_Bomb Synthesis/Rest
+Roserade,Leaf_Storm Sludge_Bomb Sleep_Powder/Hidden_Power_Fire Synthesis/Rest/Extrasensory,Spikes Giga_Drain Sludge_Bomb Rest/Synthesis
+Cranidos,Head_Smash Stone_Edge Earthquake Zen_Headbutt/Fire_Punch,Rock_Polish Stone_Edge Earthquake Zen_Headbutt/Crunch
+Rampardos,Stealth_Rock Stone_Edge Superpower Ice_Beam
+Shieldon,Stealth_Rock Metal_Burst Fire_Blast Ice_Beam/Earthquake
+Bastiodon,Stealth_Rock Roar Magic_Coat Toxic
+Burmy
+Wormadam,Toxic Protect/Synthesis Giga_Drain Signal_Beam
+Mothim,Bug_Buzz Air_Slash Uturn Giga_Drain/Hidden_Power_Rock,Quiver_Dance Bug_Buzz Air_Slash Substitute/Hidden_Power_Ground
+Combee
+Vespiquen,Protect Roost Toxic Attack_Order
+Pachirisu,Bestow/Fling Covet Volt_Switch Super_Fang/Toxic
+Buizel,Aqua_Tail Return Hidden_Power_Fire Aqua_Jet,Waterfall/Aqua_Tail Return Switcheroo/Brick_Break Aqua_Jet/Switcheroo,Baton_Pass Bulk_Up Agility Waterfall
+Floatzel,Hydro_Pump Ice_Beam/Ice_Punch Crunch Hidden_Power_Grass/Low_Kick,Waterfall Ice_Punch Return Switcheroo/Aqua_Jet,Bulk_Up Baton_Pass Waterfall Taunt/Return/Ice_Punch
+Cherubi,Sunny_Day Growth Solar_Beam/Giga_Drain Weather_Ball/Hidden_Power_Rock
+Cherrim
+Shellos,Surf/Scald Clear_Smog Recover Yawn/Toxic
+Gastrodon,Recover Scald Ice_Beam/Earthquake Toxic
+Ambipom,Fake_Out Return Low_Kick Beat_Up/Shadow_Claw,Return Low_Kick Beat_Up/Pursuit Switcheroo/Uturn
+Drifloon,Acrobatics Shadow_Ball WillOWisp Substitute/Sucker_Punch/Memento/Destiny_Bond
+Drifblim,Acrobatics WillOWisp Substitute/Disable Destiny_Bond/Disable,Substitute Calm_Mind Shadow_Ball Thunderbolt/Hidden_Power_Fighting
+Buneary,Fake_Out Switcheroo Return Encore/Thunder_Punch,Return Jump_Kick/Drain_Punch Thunder_Punch Switcheroo/Quick_Attack/Fire_Punch,Encore/Sweet_Kiss Circle_Throw Healing_Wish/Heal_Bell Ice_Punch/Thunder_Punch,Baton_Pass Agility Encore Substitute/Return
+Lopunny,Switcheroo Encore Healing_Wish Baton_Pass/Thunder_Wave
+Mismagius,Nasty_Plot Shadow_Ball Hidden_Power_Fighting Thunderbolt/Taunt,WillOWisp/Thunder_Wave Heal_Bell/Taunt/Perish_Song Pain_Split Shadow_Ball,Substitute Calm_Mind Shadow_Ball Hidden_Power_Fighting
+Honchkrow,Sucker_Punch Brave_Bird Superpower/Substitute Roost/Heat_Wave/Pursuit,Brave_Bird Night_Slash Superpower Drill_Peck/Pursuit/Hidden_Power_Grass
+Glameow,Fake_Out Uturn Sucker_Punch Hypnosis/Return/Quick_Attack,Work_Up Return Sucker_Punch Hidden_Power_Fire
+Purugly,Fake_Out Return Uturn Sucker_Punch/Shadow_Claw
+Chingling,Hypnosis Reflect Light_Screen Psychic/Wish
+Stunky,Pursuit Sucker_Punch Crunch Explosion
+Skuntank,Sucker_Punch Pursuit Poison_Jab/Crunch Taunt
+Bronzor,Calm_Mind Rest Flash_Cannon Toxic/Sleep_Talk
+Bronzong,Stealth_Rock Gyro_Ball Toxic Earthquake,Reflect Light_Screen Gyro_Ball Earthquake/Stealth_Rock
+Bonsly,Rock_Polish DoubleEdge Rock_Slide Brick_Break
+Mime Jr.
+Happiny,Thunder_Wave/Toxic Heal_Bell Light_Screen Flamethrower
+Chatot,Hyper_Voice Heat_Wave Uturn Hidden_Power_Ground
+Spiritomb,Shadow_Sneak Sucker_Punch Pursuit Trick/WillOWisp,Calm_Mind Dark_Pulse Rest Sleep_Talk,WillOWisp Foul_Play Rest/Pain_Split Sleep_Talk/Sucker_Punch/Taunt
+Gible,Substitute Outrage Earthquake Fire_Blast
+Gabite,Stealth_Rock Earthquake Dragon_Claw Roar,Outrage Earthquake Stone_Edge Dragon_Claw
+Garchomp,Outrage Earthquake Rock_Slide/Stone_Edge/Stealth_Rock Dual_Chop/Dragon_Claw,Stealth_Rock Outrage Earthquake Swords_Dance,Swords_Dance Earthquake Outrage/Dragon_Claw/Dual_Chop Dragon_Claw/Dual_Chop/Substitute/Aqua_Tail,Draco_Meteor Earthquake Stealth_Rock/Outrage/Hidden_Power_Ice Fire_Blast/Surf
+Munchlax,Return Fire_Punch Earthquake Pursuit
+Riolu,Copycat Roar Protect Drain_Punch
+Lucario,Swords_Dance Close_Combat Extreme_Speed Ice_Punch/Crunch
+Hippopotas,Earthquake Stealth_Rock Slack_Off Crunch/Whirlwind
+Hippowdon,Slack_Off Earthquake Stealth_Rock Whirlwind/Toxic
+Skorupi,Rest Sleep_Talk Acupressure XScissor,Toxic_Spikes Cross_Poison XScissor/Bug_Bite Knock_Off
+Drapion,Swords_Dance Crunch Earthquake Poison_Jab/Taunt,Pursuit Crunch Earthquake Poison_Jab/Aqua_Tail,Crunch Poison_Jab Whirlwind Taunt
+Croagunk,Drain_Punch Vacuum_Wave Shadow_Ball Knock_Off/Fake_Out,Bulk_Up Drain_Punch Sucker_Punch Payback/Knock_Off/Vacuum_Wave
+Toxicroak,Swords_Dance Drain_Punch Sucker_Punch Ice_Punch
+Carnivine,Swords_Dance Power_Whip Sleep_Powder Return
+Finneon,Surf Uturn Ice_Beam Hidden_Power_Electric/Hidden_Power_Grass/Hidden_Power_Fire,Rain_Dance Aqua_Tail/Waterfall Hidden_Power_Grass/Ice_Beam Return/Uturn
+Lumineon,Rain_Dance/Tailwind Uturn Waterfall Toxic
+Mantyke,Rest Sleep_Talk Air_Slash Scald/Toxic,Rain_Dance Hydro_Pump Ice_Beam/Substitute Air_Slash/Substitute
+Snover,Blizzard Giga_Drain Ice_Shard Hidden_Power_Fire,Blizzard Giga_Drain Ice_Shard Protect
+Abomasnow,Substitute Leech_Seed Ice_Beam Giga_Drain/Synthesis/Ice_Shard
+Weavile,Swords_Dance Ice_Shard Night_Slash Low_Kick,Pursuit Ice_Shard Low_Kick Ice_Punch/Night_Slash
+Magnezone,Thunderbolt Hidden_Power_Fire Sunny_Day Magnet_Rise,Thunderbolt Volt_Switch Hidden_Power_Fire/Hidden_Power_Ice Flash_Cannon,Substitute Charge_Beam Hidden_Power_Ice Thunderbolt/Flash_Cannon
+Lickilicky,Wish Heal_Bell Protect Body_Slam/Dragon_Tail,Swords_Dance Substitute Body_Slam/Return Power_Whip,Return Power_Whip Explosion Earthquake
+Rhyperior,Stealth_Rock Earthquake Rock_Blast/Stone_Edge Dragon_Tail,Stone_Edge Earthquake Megahorn Ice_Punch/Rock_Blast,Rock_Polish Earthquake Stone_Edge Megahorn
+Tangrowth,Sleep_Powder Power_Whip/Giga_Drain Hidden_Power_Fighting/Hidden_Power_Fire Synthesis/Leech_Seed,Leaf_Storm Focus_Blast Hidden_Power_Rock Sleep_Powder
+Electivire,Wild_Charge Flamethrower Earthquake Ice_Punch
+Magmortar,Fire_Blast Thunderbolt Focus_Blast Hidden_Power_Grass/Substitute
+Togekiss,Air_Slash Roost Heal_Bell/Thunder_Wave Nasty_Plot,Air_Slash Roost Heal_Bell/Thunder_Wave Nasty_Plot
+Yanmega,Bug_Buzz Air_Slash Psychic Uturn/Sleep_Talk,Bug_Buzz Air_Slash Protect Hidden_Power_Rock/Hidden_Power_Ground/Giga_Drain
+Leafeon,Swords_Dance Baton_Pass Leaf_Blade Synthesis
+Glaceon,Ice_Beam Hidden_Power_Ground Signal_Beam Baton_Pass/Frost_Breath
+Gliscor,Stealth_Rock Earthquake Protect Knock_Off/Uturn,Swords_Dance Earthquake Protect Facade
+Mamoswine,Substitute Earthquake Icicle_Crash Ice_Shard,Earthquake Icicle_Crash Superpower Ice_Shard
+Porygon-Z,Agility Tri_Attack Dark_Pulse Hidden_Power_Fighting,Tri_Attack Dark_Pulse Hidden_Power_Fighting Trick,Tri_Attack Dark_Pulse Hidden_Power_Fighting Trick,Nasty_Plot Tri_Attack Dark_Pulse Hidden_Power_Fighting
+Gallade,Swords_Dance Drain_Punch Psycho_Cut Night_Slash/Leaf_Blade,Substitute Drain_Punch Night_Slash/Leaf_Blade Psycho_Cut,Swords_Dance Close_Combat Psycho_Cut Night_Slash/Shadow_Sneak,Wish Protect Drain_Punch WillOWisp,Close_Combat Psycho_Cut Night_Slash Stone_Edge/Leaf_Blade,Bulk_Up Drain_Punch Night_Slash Substitute
+Probopass,Stealth_Rock Power_Gem Toxic Volt_Switch,Stealth_Rock Power_Gem/Flash_Cannon Earth_Power Volt_Switch
+Dusknoir,WillOWisp Pain_Split Fire_Punch Earthquake
+Froslass,Spikes Taunt Icy_Wind/Ice_Beam Shadow_Ball/Destiny_Bond
+Rotom,Thunderbolt Shadow_Ball Substitute Pain_Split,Volt_Switch Shadow_Ball Thunderbolt/Hidden_Power_Ice Trick,Thunderbolt Shadow_Ball WillOWisp Pain_Split
+Uxie,Stealth_Rock Psychic Thunder_Wave/Yawn Uturn,Substitute Calm_Mind Psychic/Psyshock Thunderbolt,Reflect Light_Screen Uturn/Memento Stealth_Rock/Thunder_Wave,Uturn Stealth_Rock Zen_Headbutt/Thunder_Wave Trick,Sunny_Day/Rain_Dance Uturn/Memento Stealth_Rock Heal_Bell/Psychic
+Mesprit,Stealth_Rock Psychic Thunderbolt/Hidden_Power_Fire Uturn/Healing_Wish,Calm_Mind Psyshock/Psychic Thunderbolt Hidden_Power_Fire/Ice_Beam,Psyshock/Psychic Thunderbolt Hidden_Power_Fire/Ice_Beam Uturn/Ice_Beam/Trick,Substitute Calm_Mind Psyshock Thunderbolt/Ice_Beam
+Azelf,Nasty_Plot Psychic/Psyshock Fire_Blast/Flamethrower Thunderbolt/Grass_Knot,Psychic/Psyshock Fire_Blast/Flamethrower Shadow_Ball Stealth_Rock/Uturn/Grass_Knot,Reflect Light_Screen Taunt/Uturn Stealth_Rock/Uturn,Zen_Headbutt Fire_Punch Ice_Punch Uturn/Trick
+Dialga,Stealth_Rock Draco_Meteor/Dragon_Pulse Fire_Blast Roar/Dragon_Tail/Thunder,Draco_Meteor Thunder Fire_Blast/Aura_Sphere Dragon_Pulse/Stealth_Rock,Draco_Meteor Outrage/Brick_Break Fire_Blast Thunder/Bulk_Up,Rest Sleep_Talk Bulk_Up Outrage/Dragon_Claw,Draco_Meteor Thunder Fire_Blast/Aura_Sphere Dragon_Pulse
+Palkia,Spacial_Rend Surf/Hydro_Pump Fire_Blast Thunder/Dragon_Tail,Surf Spacial_Rend Fire_Blast Thunder,Hydro_Pump Spacial_Rend Draco_Meteor/Fire_Blast Thunder,Trick_Room Spacial_Rend Hydro_Pump/Surf Fire_Blast/Thunder
+Heatran,Magma_Storm/Fire_Blast Protect/Flame_Charge Earth_Power Hidden_Power_Ice/WillOWisp,Substitute Protect Lava_Plume Toxic/WillOWisp/Earth_Power/Hidden_Power_Ice,Stealth_Rock/Taunt Lava_Plume Roar/WillOWisp/Toxic Protect,Magma_Storm Sunny_Day Solar_Beam Earth_Power/Hidden_Power_Ice
+Regigigas,Thunder_Wave Confuse_Ray Substitute Return
+Giratina,Rest Sleep_Talk Roar/Dragon_Tail WillOWisp/Dragon_Tail,Rest Sleep_Talk Roar/Dragon_Tail WillOWisp/Dragon_Tail,Calm_Mind Rest Dragon_Pulse Aura_Sphere/Thunder,Rest Sleep_Talk Calm_Mind Dragon_Pulse
+Cresselia,Trick_Room/Safeguard/Thunder_Wave Light_Screen Reflect Lunar_Dance,Moonlight Reflect Ice_Beam Toxic/Magic_Coat/Thunder_Wave
+Phione,Rain_Dance Uturn Rest Scald/Toxic
+Manaphy,Calm_Mind Rest Scald Ice_Beam,Tail_Glow Rest Surf Ice_Beam/Grass_Knot
+Darkrai,Dark_Void Dark_Pulse Focus_Blast/Nasty_Plot Nasty_Plot/Substitute,Trick Dark_Void Dark_Pulse Nasty_Plot/Focus_Blast,Dark_Void Thunder_Wave Dark_Pulse Focus_Blast/Nasty_Plot
+Shaymin,Seed_Flare Earth_Power Psychic/Hidden_Power_Ice/Air_Slash Synthesis/Rest,Leech_Seed Seed_Flare Psychic/Hidden_Power_Ice/Air_Slash Substitute/Protect
+Arceus,Swords_Dance Extreme_Speed Shadow_Claw/Shadow_Force Earthquake/Brick_Break/Recover,WillOWisp/Reflect Recover Return Roar/Perish_Song,Trick Extreme_Speed Swords_Dance/Shadow_Claw Earthquake/Shadow_Claw
+Victini,Vcreate Bolt_Strike Uturn Trick/Zen_Headbutt,Vcreate/Blue_Flare Grass_Knot Uturn/Thunder Psychic/Focus_Blast/Thunder,Vcreate Bolt_Strike Uturn Trick/Flare_Blitz
+Snivy,Reflect Light_Screen Taunt Leaf_Storm/Giga_Drain
+Servine
+Serperior,Calm_Mind Taunt/Substitute Giga_Drain Hidden_Power_Rock,Reflect Light_Screen Taunt Giga_Drain
+Tepig,Flame_Charge Flare_Blitz Wild_Charge Superpower/Head_Smash
+Pignite,Fire_Punch Low_Kick Thunder_Punch/Toxic Roar/Toxic/Taunt
+Emboar,Flare_Blitz Superpower Wild_Charge Sleep_Talk,Flare_Blitz Superpower Wild_Charge Sleep_Talk,Fire_Blast Superpower Grass_Knot Wild_Charge/Sleep_Talk,Flare_Blitz Superpower WillOWisp Protect
+Oshawott,Swords_Dance Waterfall Aqua_Jet XScissor/Hidden_Power_Fire
+Dewott
+Samurott,Swords_Dance Razor_Shell/Waterfall Aqua_Jet Megahorn,Hydro_Pump Ice_Beam Hidden_Power_Grass Megahorn/Taunt
+Patrat,Swords_Dance/Work_Up Baton_Pass Hypnosis/Substitute Return/Crunch
+Watchog,Return Hypnosis Super_Fang Toxic/Thunder_Wave
+Lillipup,Return Wild_Charge Fire_Fang Crunch/Ice_Fang
+Herdier
+Stoutland,Return Crunch Superpower Thunder_Wave/Toxic
+Purrloin,Encore Uturn Swagger/Thunder_Wave Foul_Play/Knock_Off
+Liepard,Encore Sucker_Punch Uturn Pursuit/Night_Slash,Rain_Dance/Sunny_Day Encore Uturn Sucker_Punch
+Pansage,Leaf_Storm Hidden_Power_Fire/Hidden_Power_Ice Energy_Ball Nasty_Plot/Substitute
+Simisage,Substitute Giga_Drain Superpower Hidden_Power_Rock,Substitute Seed_Bomb Acrobatics Low_Kick/Endeavor,Nasty_Plot Giga_Drain Focus_Blast/Substitute Hidden_Power_Rock
+Pansear,Nasty_Plot/Sunny_Day Fire_Blast Hidden_Power_Electric/Hidden_Power_Ground Taunt/Solar_Beam
+Simisear,Nasty_Plot Substitute Fire_Blast/Flamethrower Focus_Blast,Fire_Blast Grass_Knot Superpower Hidden_Power_Rock
+Panpour,Nasty_Plot Hydro_Pump/Surf Ice_Beam/Substitute Hidden_Power_Grass/Hidden_Power_Fire
+Simipour,Nasty_Plot Hydro_Pump Ice_Beam Hidden_Power_Grass/Substitute,Hydro_Pump Ice_Beam Hidden_Power_Grass Focus_Blast
+Munna,Trick_Room Psychic/Psyshock Hidden_Power_Fighting Yawn/Hypnosis,Calm_Mind Stored_Power/Psychic Hidden_Power_Fighting Moonlight/Shadow_Ball,Reflect Light_Screen Magic_Coat Yawn
+Musharna,Moonlight Toxic/Yawn/Thunder_Wave Baton_Pass/Heal_Bell Psychic,Calm_Mind Moonlight Psychic Heal_Bell/Baton_Pass/Signal_Beam,Trick_Room Psychic Signal_Beam Moonlight/Hidden_Power_Ground,Psychic Signal_Beam Baton_Pass/Hidden_Power_Ground Trick/Sleep_Talk
+Pidove
+Tranquill
+Unfezant,Tailwind Hypnosis Uturn Return
+Blitzle,Agility/Flame_Charge Wild_Charge Hidden_Power_Ice Pursuit/Quick_Attack,Charge_Beam Thunderbolt Hidden_Power_Ground Flame_Charge/Quick_Attack
+Zebstrika,Volt_Switch Thunderbolt Overheat Hidden_Power_Ice
+Roggenrola,Autotomize Stone_Edge/Rock_Blast Earthquake Explosion,Stone_Edge/Rock_Blast Earthquake Explosion Return,Substitute Stone_Edge/Rock_Blast Earthquake Explosion,Rock_Blast/Stone_Edge Stealth_Rock Protect/Earthquake Explosion
+Boldore
+Gigalith,Stealth_Rock Explosion Rock_Blast Earthquake
+Woobat,Calm_Mind Psychic Air_Slash/Roost Heat_Wave
+Swoobat,Psychic Signal_Beam Uturn Air_Slash/Heat_Wave/Trick
+Drilbur,Earthquake Rock_Slide Stealth_Rock Rapid_Spin/Swords_Dance,Earthquake Rock_Slide Shadow_Claw Stealth_Rock/Rapid_Spin
+Excadrill,Earthquake Iron_Head Protect Rapid_Spin,Earthquake Rapid_Spin Toxic/Stealth_Rock Protect,Earthquake Iron_Head Rapid_Spin Rock_Slide/Toxic
+Audino,Wish Heal_Bell Protect/Toxic DoubleEdge
+Timburr,Bulk_Up Drain_Punch Mach_Punch Payback/Thunder_Punch
+Gurdurr,Drain_Punch Mach_Punch Ice_Punch Knock_Off/Stone_Edge,Bulk_Up Drain_Punch Mach_Punch Payback/Ice_Punch
+Conkeldurr,Drain_Punch Mach_Punch Ice_Punch Thunder_Punch
+Tympole,Hydro_Pump/Surf Sludge_Wave Earth_Power Hidden_Power_Electric/Rain_Dance
+Palpitoad
+Seismitoad,Stealth_Rock Scald Earth_Power Toxic/Knock_Off,Stealth_Rock Hydro_Pump Earth_Power Toxic/Grass_Knot,Rain_Dance Hydro_Pump Earth_Power/Earthquake Stealth_Rock/Sludge_Bomb
+Throh,Circle_Throw Bulk_Up Rest Sleep_Talk/Payback,Substitute Bulk_Up Storm_Throw Ice_Punch
+Sawk,Close_Combat Earthquake Ice_Punch Stone_Edge,Close_Combat Ice_Punch Stone_Edge Toxic/Earthquake/Knock_Off
+Sewaddle,Calm_Mind Solar_Beam/Energy_Ball Bug_Buzz Hidden_Power_Fire/Hidden_Power_Ice
+Swadloon
+Leavanny,Leaf_Blade XScissor Synthesis Heal_Bell
+Venipede,Spikes Toxic_Spikes Endeavor Protect/Poison_Jab
+Whirlipede
+Scolipede,Spikes Megahorn Earthquake Rock_Slide,Swords_Dance Megahorn Earthquake Aqua_Tail/Rock_Slide
+Cottonee,Substitute/Protect Leech_Seed Stun_Spore Encore/Taunt
+Whimsicott,Stun_Spore Uturn/Memento Encore Taunt/Giga_Drain/Leech_Seed,Sunny_Day Taunt Uturn/Memento Encore/Memento/Leech_Seed
+Petilil,Sunny_Day Solar_Beam/Giga_Drain Hidden_Power_Fire Sleep_Powder/Growth
+Lilligant,Quiver_Dance Sleep_Powder Giga_Drain Hidden_Power_Rock/Hidden_Power_Fire,Sleep_Powder Leaf_Storm Hidden_Power_Rock/Hidden_Power_Fire Healing_Wish
+Basculin,Waterfall Aqua_Jet DoubleEdge Superpower
+Sandile,Earthquake Crunch Fire_Fang Stone_Edge/Pursuit,Hone_Claws Earthquake Fire_Fang/Stone_Edge Crunch/Pursuit
+Krokorok
+Krookodile,Earthquake Crunch Stone_Edge Pursuit/Superpower
+Darumaka,Flare_Blitz Superpower Rock_Slide Uturn,Encore WillOWisp/Yawn Uturn Fire_Punch
+Darmanitan,Flare_Blitz Rock_Slide Superpower Uturn,Flare_Blitz Uturn Rock_Slide/Earthquake Superpower/Fire_Punch
+Maractus,Spikes Giga_Drain Hidden_Power_Ice Synthesis
+Dwebble,Stealth_Rock Spikes Rock_Blast Toxic/Shell_Smash
+Crustle,Stealth_Rock Spikes Rock_Blast/Stone_Edge XScissor/Earthquake,Shell_Smash Spikes/Stealth_Rock Rock_Blast Earthquake/XScissor
+Scraggy,Bulk_Up Drain_Punch Crunch Rest
+Scrafty,Dragon_Dance High_Jump_Kick/Drain_Punch Crunch Ice_Punch/Zen_Headbutt,Bulk_Up Drain_Punch Crunch Rest,High_Jump_Kick Crunch Ice_Punch/Stone_Edge Drain_Punch/Zen_Headbutt
+Sigilyph,Psychic/Psyshock Heat_Wave Air_Slash/Energy_Ball Roost,Cosmic_Power Roost Psycho_Shift Stored_Power,Calm_Mind Psychic/Psyshock Heat_Wave Roost
+Yamask,Trick_Room Shadow_Ball Hidden_Power_Fighting Nasty_Plot,Calm_Mind Hex Hidden_Power_Fighting WillOWisp
+Cofagrigus,Shadow_Ball Hidden_Power_Fighting Nasty_Plot Trick_Room,WillOWisp Shadow_Ball Pain_Split Haze/Knock_Off
+Tirtouga,Shell_Smash Waterfall Stone_Edge Aqua_Jet/Stealth_Rock,Stealth_Rock Stone_Edge Knock_Off Aqua_Jet
+Carracosta,Shell_Smash Waterfall Stone_Edge Aqua_Jet,Stealth_Rock Waterfall Stone_Edge Aqua_Jet/Toxic
+Archen,Acrobatics Earthquake/Stone_Edge Uturn Quick_Attack
+Archeops,Acrobatics Stone_Edge Earth_Power Head_Smash/Uturn/Roost
+Trubbish,Clear_Smog Toxic_Spikes Explosion/Spikes Payback
+Garbodor,Spikes Toxic Pain_Split/Toxic_Spikes Rock_Blast/Gunk_Shot
+Zorua,Dark_Pulse Sucker_Punch Hidden_Power_Fighting Extrasensory,Dark_Pulse/Night_Daze Hidden_Power_Fighting/Hidden_Power_Fire Uturn Pursuit/Extrasensory,Nasty_Plot Dark_Pulse/Night_Daze Hidden_Power_Fighting Extrasensory/Sucker_Punch
+Zoroark,Dark_Pulse/Night_Daze Flamethrower Focus_Blast Trick,Dark_Pulse/Night_Daze Focus_Blast Flamethrower/Grass_Knot Sucker_Punch,Nasty_Plot Dark_Pulse Focus_Blast Flamethrower/Substitute,Dark_Pulse/Night_Daze Flamethrower Focus_Blast Trick/Uturn
+Minccino,Tail_Slap Aqua_Tail Uturn Knock_Off/Seed_Bomb,Tail_Slap Aqua_Tail Uturn Seed_Bomb
+Cinccino,Tail_Slap Bullet_Seed Rock_Blast Aqua_Tail,Tail_Slap Bullet_Seed Rock_Blast Uturn,Tail_Slap Bullet_Seed Rock_Blast Uturn
+Gothita,Psychic/Psyshock Thunderbolt/Hidden_Power_Fighting Dark_Pulse Substitute/Calm_Mind
+Gothorita
+Gothitelle,Psychic Hidden_Power_Fire/Hidden_Power_Fighting Energy_Ball/Dark_Pulse/Thunderbolt Trick
+Solosis,Trick_Room Psychic Hidden_Power_Fighting Thunder/Shadow_Ball
+Duosion,Calm_Mind Recover Psychic Signal_Beam/Acid_Armor
+Reuniclus,Calm_Mind Psychic/Thunder/Hidden_Power_Ice Focus_Blast/Hidden_Power_Ice/Thunder Recover,Psychic Focus_Blast Hidden_Power_Ice/Signal_Beam Recover,Trick_Room Psychic Focus_Blast Hidden_Power_Ice/Signal_Beam/Recover
+Ducklett,Feather_Dance Toxic Roost Surf/Air_Slash,Rain_Dance Surf Hurricane/Air_Slash Rest/Roost
+Swanna,Substitute Roost Scald Hurricane,Surf Ice_Beam Hurricane Brave_Bird
+Vanillite,Ice_Beam/Blizzard Flash_Cannon Water_Pulse Hidden_Power_Grass/Hidden_Power_Fighting,Autotomize Ice_Beam/Blizzard Hidden_Power_Grass/Hidden_Power_Fighting Substitute/Taunt
+Vanillish
+Vanilluxe,Autotomize Ice_Beam Hidden_Power_Ground Flash_Cannon
+Deerling,Seed_Bomb Return/DoubleEdge Jump_Kick Nature_Power/Wild_Charge,Work_Up Agility Baton_Pass Seed_Bomb/Substitute
+Sawsbuck,Swords_Dance DoubleEdge/Return Horn_Leech Nature_Power/Substitute,DoubleEdge Horn_Leech Nature_Power Baton_Pass
+Emolga,Tailwind Encore Uturn Air_Slash/Taunt
+Karrablast,Swords_Dance Megahorn DoubleEdge/Return Feint_Attack/Aerial_Ace,Megahorn DoubleEdge/Return Aerial_Ace Toxic/Rest
+Escavalier,Megahorn Pursuit Iron_Head Sleep_Talk
+Foongus,Stun_Spore Giga_Drain Sludge_Bomb Toxic
+Amoonguss,Spore Giga_Drain Clear_Smog/Sludge_Bomb Stun_Spore/Synthesis/Hidden_Power_Fire,Spore Giga_Drain Sludge_Bomb Hidden_Power_Fire/Hidden_Power_Ground
+Frillish,Shadow_Ball Scald/Taunt/Giga_Drain WillOWisp Recover
+Jellicent,Taunt WillOWisp Recover Night_Shade
+Alomomola,Wish Protect Waterfall Toxic
+Joltik,Volt_Switch Thunderbolt Bug_Buzz Giga_Drain,Agility Thunderbolt Bug_Buzz Giga_Drain,Thunderbolt/Discharge Bug_Buzz Giga_Drain Thunder_Wave/Volt_Switch
+Galvantula,Thunder Bug_Buzz Hidden_Power_Ground Giga_Drain/Volt_Switch
+Ferroseed,Spikes/Stealth_Rock Thunder_Wave/Protect Leech_Seed Gyro_Ball/Seed_Bomb
+Ferrothorn,Spikes Knock_Off/Leech_Seed Power_Whip/Gyro_Ball Stealth_Rock/Gyro_Ball/Worry_Seed/Leech_Seed
+Klink,Rock_Polish Flash_Cannon Thunderbolt/Charge_Beam Hidden_Power_Ground
+Klang,Rest Sleep_Talk Volt_Switch Toxic/Gear_Grind
+Klinklang,Shift_Gear Gear_Grind Substitute/Wild_Charge Return/Wild_Charge
+Tynamo
+Eelektrik,Uturn/Volt_Switch Knock_Off Giga_Drain Super_Fang
+Eelektross,Thunderbolt Superpower Flamethrower Giga_Drain,Volt_Switch Giga_Drain Flamethrower Thunderbolt,Uturn Thunder_Punch Superpower/Drain_Punch Aqua_Tail
+Elgyem,Psychic Thunderbolt Hidden_Power_Fighting Recover
+Beheeyem,Psychic Signal_Beam Hidden_Power_Fighting Trick,Psychic Signal_Beam/Hidden_Power_Fighting Recover Nasty_Plot/Calm_Mind,Psychic Signal_Beam/Hidden_Power_Fighting Recover Trick_Room
+Litwick,Fire_Blast Shadow_Ball Hidden_Power_Ground Energy_Ball/Trick_Room
+Lampent,Trick_Room Fire_Blast Shadow_Ball Energy_Ball/Memento
+Chandelure,Flamethrower/Fire_Blast Shadow_Ball Hidden_Power_Ice Flame_Charge/Trick
+Axew,Dragon_Dance Outrage Aqua_Tail Dragon_Claw/Superpower,Dragon_Claw Superpower Aqua_Tail Outrage
+Fraxure,Dragon_Dance Outrage Superpower Aqua_Tail
+Haxorus,Dragon_Dance Dual_Chop Outrage Superpower/Taunt/Swords_Dance
+Cubchoo,Blizzard Surf Hidden_Power_Grass Toxic,Encore/Yawn Substitute/Protect Focus_Punch Ice_Punch
+Beartic,Bulk_Up Substitute Icicle_Crash Low_Kick,Icicle_Crash Superpower Stone_Edge Taunt/Aqua_Jet
+Cryogonal,Rapid_Spin Ice_Beam Recover Haze/Toxic/Reflect,Ice_Beam Rapid_Spin Hidden_Power_Fire Recover
+Shelmet,Spikes Recover Acid_Armor Bug_Buzz/Hidden_Power_Flying
+Accelgor,Bug_Buzz Focus_Blast Hidden_Power_Rock Spikes/Giga_Drain,Spikes Final_Gambit Bug_Buzz Focus_Blast/Hidden_Power_Rock,Encore Substitute Baton_Pass/Bug_Buzz Bug_Buzz/Focus_Blast
+Stunfisk,Stealth_Rock Discharge Earth_Power Toxic/Pain_Split
+Mienfoo,Taunt/Fake_Out High_Jump_Kick/Drain_Punch Uturn Knock_Off,High_Jump_Kick Uturn Knock_Off Stone_Edge,High_Jump_Kick Uturn Stone_Edge Drain_Punch
+Mienshao,High_Jump_Kick Uturn Stone_Edge Aerial_Ace/Hidden_Power_Ice,High_Jump_Kick Uturn Stone_Edge Hidden_Power_Ice,Swords_Dance High_Jump_Kick Stone_Edge Hidden_Power_Ice
+Druddigon,Stealth_Rock Outrage/Dragon_Claw Earthquake Sucker_Punch,Outrage Superpower/Earthquake Sucker_Punch/Fire_Punch Dragon_Claw,Outrage/Dragon_Claw Flamethrower Earthquake Sucker_Punch/Substitute,Glare Dragon_Tail Stealth_Rock/Rest Earthquake/Sleep_Talk
+Golett,Stealth_Rock Earthquake Drain_Punch Ice_Punch/Toxic
+Golurk,Earthquake Shadow_Punch Ice_Punch Drain_Punch,Stealth_Rock Earthquake Shadow_Punch Ice_Punch
+Pawniard,Stealth_Rock Iron_Head Night_Slash/Thunder_Wave Sucker_Punch,Pursuit Iron_Head Night_Slash Knock_Off
+Bisharp,Swords_Dance Sucker_Punch Substitute Low_Kick/Iron_Head
+Bouffalant,Substitute Return/Head_Charge Earthquake Stone_Edge/Swords_Dance,Head_Charge Stone_Edge Megahorn Earthquake/Superpower,Swords_Dance Return Earthquake Stone_Edge/Substitute
+Rufflet,Pluck Return Uturn Superpower/Rock_Slide,Bulk_Up Return Pluck Roost/Substitute
+Braviary,Bulk_Up Roost Substitute Brave_Bird,Brave_Bird Return Superpower Uturn,Brave_Bird Return Superpower Uturn
+Vullaby,Nasty_Plot Air_Slash Dark_Pulse/Taunt Heat_Wave/Roost,Brave_Bird Knock_Off Uturn Roost
+Mandibuzz,Foul_Play Taunt Roost Toxic
+Heatmor,Fire_Blast Giga_Drain Superpower Sucker_Punch
+Durant,XScissor Superpower Thunder_Fang Iron_Head,Hone_Claws XScissor Superpower Thunder_Fang/Iron_Head,XScissor Superpower Stone_Edge Iron_Head/Baton_Pass
+Deino,Outrage Crunch Superpower Head_Smash/Zen_Headbutt
+Zweilous,Rest Sleep_Talk Roar Dragon_Tail/Crunch,Outrage Substitute Toxic Crunch/Superpower
+Hydreigon,Draco_Meteor Fire_Blast Dark_Pulse/Dragon_Pulse Focus_Blast/Roost
+Larvesta,Flare_Blitz Uturn WillOWisp Morning_Sun,Flare_Blitz Uturn Wild_Charge Flame_Charge/Morning_Sun
+Volcarona,Quiver_Dance Fire_Blast/Flamethrower Bug_Buzz/Giga_Drain Psychic/Giga_Drain/Hidden_Power_Ground
+Cobalion,Swords_Dance Close_Combat Stone_Edge Hidden_Power_Ice/XScissor,Calm_Mind Focus_Blast Hidden_Power_Ghost/Hidden_Power_Ice Flash_Cannon/Substitute,Stealth_Rock Sacred_Sword/Close_Combat Volt_Switch Toxic/Hidden_Power_Ice
+Terrakion,Close_Combat Stone_Edge XScissor Sacred_Sword/Quick_Attack,Close_Combat Stone_Edge Hidden_Power_Ice Earthquake/Protect,Stealth_Rock Taunt/Swords_Dance Stone_Edge Close_Combat,Substitute Swords_Dance Close_Combat Stone_Edge,Rock_Polish Swords_Dance Close_Combat Stone_Edge,Close_Combat Stone_Edge XScissor Rock_Slide/Sacred_Sword
+Virizion,Swords_Dance Leaf_Blade Close_Combat Stone_Edge,Calm_Mind Giga_Drain Focus_Blast Hidden_Power_Rock/Hidden_Power_Ice
+Tornadus,Rain_Dance Hurricane Grass_Knot Superpower,Bulk_Up Acrobatics Superpower Taunt/Substitute,Rain_Dance Hurricane Taunt Superpower
+Thundurus,Thunder_Wave Thunder Hidden_Power_Ice Taunt/Volt_Switch/Hammer_Arm,Nasty_Plot Thunder Hidden_Power_Ice Focus_Blast
+Reshiram,Draco_Meteor Blue_Flare Dragon_Pulse Focus_Blast,Blue_Flare Draco_Meteor/Dragon_Pulse Tailwind/Roost Outrage/Stone_Edge/Roost,Flame_Charge Blue_Flare Dragon_Pulse/Draco_Meteor Draco_Meteor/Outrage/Stone_Edge,Substitute Roost Blue_Flare Dragon_Pulse/Draco_Meteor,Sunny_Day Blue_Flare Draco_Meteor Focus_Blast/Solar_Beam,Draco_Meteor Blue_Flare Dragon_Pulse/Outrage Stone_Edge
+Zekrom,Bolt_Strike Draco_Meteor Dragon_Claw/Outrage Focus_Blast/Volt_Switch,Bolt_Strike Dragon_Claw Outrage Fusion_Bolt/Volt_Switch,Bolt_Strike Outrage Dragon_Claw Volt_Switch/Fusion_Bolt,Substitute Hone_Claws Bolt_Strike Outrage/Dragon_Claw,Tailwind Draco_Meteor Bolt_Strike Outrage/Volt_Switch/Focus_Blast
+Landorus,Earthquake Stone_Edge Uturn Grass_Knot,Swords_Dance Earthquake Stone_Edge Rock_Polish/Grass_Knot/Substitute
+Kyurem,Ice_Beam Earth_Power Substitute Roost
+Keldeo,Hydro_Pump Secret_Sword Hidden_Power_Grass Surf,Hydro_Pump Secret_Sword Hidden_Power_Ice Surf/Scald,Scald Secret_Sword Hidden_Power_Ice/Hidden_Power_Ghost/Hidden_Power_Bug Protect,Toxic Protect Scald Secret_Sword,Calm_Mind Hydro_Pump/Scald Secret_Sword Hidden_Power_Ghost/Hidden_Power_Dark/Substitute
+Meloetta,Calm_Mind Psychic/Psyshock Shadow_Ball Focus_Blast/Thunderbolt/Grass_Knot,Psychic Focus_Blast Shadow_Ball/Thunderbolt Uturn/Trick,Substitute Calm_Mind Psychic/Psyshock Hyper_Voice/Thunderbolt/Focus_Blast
+Genesect,Uturn Ice_Beam Explosion/Flamethrower Iron_Head/Flamethrower,Uturn Ice_Beam Bug_Buzz/Flamethrower/Thunder Flamethrower/Thunder,Uturn Ice_Beam Thunder Flamethrower/Hidden_Power_Fighting,Uturn Explosion Iron_Head Ice_Beam/Flamethrower
