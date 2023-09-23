@@ -483,6 +483,12 @@ public class Randomizer {
             trainerMovesetsChanged = true;
         }
 
+        if (settings.isUseStrongTrainerMoves()) {
+            romHandler.setStrongTrainerMoves(settings.getStrongTrainerMovesLevel());
+            trainersChanged = true;
+            trainerMovesetsChanged = true;
+        }
+
         if (settings.isRandomizeHeldItemsForBossTrainerPokemon()
                 || settings.isRandomizeHeldItemsForImportantTrainerPokemon()
                 || settings.isRandomizeHeldItemsForRegularTrainerPokemon()) {
