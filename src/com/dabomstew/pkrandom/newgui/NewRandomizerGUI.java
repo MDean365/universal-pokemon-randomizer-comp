@@ -2302,7 +2302,7 @@ public class NewRandomizerGUI {
         tpRivalCarriesStarterCheckBox.setEnabled(false);
         tpRivalCarriesStarterCheckBox.setSelected(false);
         tpStrongMovesCheckBox.setVisible(true);
-        tpStrongMovesCheckBox.setEnabled(false);
+        tpStrongMovesCheckBox.setEnabled(true);
         tpStrongMovesCheckBox.setSelected(false);
         tpStrongMovesSlider.setVisible(true);
         tpStrongMovesSlider.setEnabled(false);
@@ -3443,13 +3443,6 @@ public class NewRandomizerGUI {
         } else {
             tpRivalCarriesStarterCheckBox.setEnabled(false);
             tpRivalCarriesStarterCheckBox.setSelected(false);
-        }
-
-        if (!isTrainerSetting(TRAINER_UNCHANGED)) {
-            tpStrongMovesCheckBox.setEnabled(true);
-        } else {
-            tpStrongMovesCheckBox.setEnabled(false);
-            tpStrongMovesCheckBox.setSelected(false);
         }
 
         tpStrongMovesSlider.setEnabled(tpStrongMovesCheckBox.isSelected());
