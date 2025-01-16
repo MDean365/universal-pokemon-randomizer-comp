@@ -1,1 +1,1 @@
-Fork of Universal Pokemon Randomizer ZX by Ajarmar - adds setting to give all trainers their competitive (Smogon) movesets, making the game extremely difficult. Nothing above gen 5 as I haven't been bothered to scrape the movesets yet.
+Fork of Universal Pokemon Randomizer ZX by Ajarmar - adds setting to give all trainers their competitive (Smogon) movesets, making the game extremely difficult. Nothing above gen 5 as I haven't scraped the movesets yet.
